@@ -1,1 +1,4 @@
 pyspark
+pyspark
+delta-spark
+jupyter
