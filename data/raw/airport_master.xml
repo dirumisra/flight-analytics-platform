@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<airports>
+  <airport code="JFK">
+    <name>John F Kennedy International</name>
+    <city>New York</city>
+    <state>NY</state>
+    <region>Northeast</region>
+    <runways>4</runways>
+  </airport>
+  <airport code="LAX">
+    <name>Los Angeles International</name>
+    <city>Los Angeles</city>
+    <state>CA</state>
+    <region>West</region>
+    <runways>4</runways>
+  </airport>
+  <airport code="ORD">
+    <name>OHare International</name>
+    <city>Chicago</city>
+    <state>IL</state>
+    <region>Midwest</region>
+    <runways>8</runways>
+  </airport>
+  <airport code="ATL">
+    <name>Hartsfield Jackson Atlanta</name>
+    <city>Atlanta</city>
+    <state>GA</state>
+    <region>South</region>
+    <runways>5</runways>
+  </airport>
+  <airport code="DFW">
+    <name>Dallas Fort Worth</name>
+    <city>Dallas</city>
+    <state>TX</state>
+    <region>South</region>
+    <runways>7</runways>
+  </airport>
+  <airport code="SFO">
+    <name>San Francisco International</name>
+    <city>San Francisco</city>
+    <state>CA</state>
+    <region>West</region>
+    <runways>4</runways>
+  </airport>
+  <airport code="MIA">
+    <name>Miami International</name>
+    <city>Miami</city>
+    <state>FL</state>
+    <region>South</region>
+    <runways>4</runways>
+  </airport>
+  <airport code="SEA">
+    <name>Seattle Tacoma International</name>
+    <city>Seattle</city>
+    <state>WA</state>
+    <region>Northwest</region>
+    <runways>3</runways>
+  </airport>
+  <airport code="BOS">
+    <name>Logan International</name>
+    <city>Boston</city>
+    <state>MA</state>
+    <region>Northeast</region>
+    <runways>4</runways>
+  </airport>
+  <airport code="DEN">
+    <name>Denver International</name>
+    <city>Denver</city>
+    <state>CO</state>
+    <region>West</region>
+    <runways>6</runways>
+  </airport>
+</airports>

@@ -1,0 +1,1999 @@
+FLT DL996 MIA 2024-10-29: Heavy fog reported at origin. Delay of 24 minutes attributed to weather conditions. Ground stop issued 1247-1311 local time.
+
+FLT AA564 SEA 2024-01-29: Snow storm reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 1444-1726 local time.
+
+FLT UA522 ORD 2024-02-07: Thunderstorm reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 1432-1449 local time.
+
+FLT SW692 SEA 2024-06-04: High winds reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 1604-1829 local time.
+
+FLT DL806 JFK 2024-11-16: Low visibility reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 0225-0331 local time.
+
+FLT SW316 BOS 2024-03-05: Snow storm reported at origin. Delay of 76 minutes attributed to weather conditions. Ground stop issued 1356-1512 local time.
+
+FLT SW448 LAX 2024-10-27: Ice on runway reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 0315-0451 local time.
+
+FLT B6663 MIA 2024-08-22: Snow storm reported at origin. Delay of 52 minutes attributed to weather conditions. Ground stop issued 0529-0621 local time.
+
+FLT SW790 BOS 2024-12-02: Heavy fog reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 2332-0052 local time.
+
+FLT AA621 DFW 2024-07-13: High winds reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 0551-0706 local time.
+
+FLT AA396 ORD 2024-09-07: High winds reported at origin. Delay of 167 minutes attributed to weather conditions. Ground stop issued 0150-0437 local time.
+
+FLT SW189 LAX 2024-08-06: Ice on runway reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 1443-1701 local time.
+
+FLT SW153 DFW 2024-09-22: Heavy fog reported at origin. Delay of 122 minutes attributed to weather conditions. Ground stop issued 0316-0518 local time.
+
+FLT UA539 DEN 2024-02-14: Ice on runway reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 0437-0548 local time.
+
+FLT DL721 ORD 2024-09-22: Thunderstorm reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 0057-0154 local time.
+
+FLT SW597 DEN 2024-01-03: Ice on runway reported at origin. Delay of 91 minutes attributed to weather conditions. Ground stop issued 0213-0344 local time.
+
+FLT DL651 JFK 2024-08-10: Ice on runway reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 1558-1715 local time.
+
+FLT SW483 MIA 2024-06-25: High winds reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 0239-0444 local time.
+
+FLT DL988 SEA 2024-08-22: High winds reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 0015-0309 local time.
+
+FLT DL337 SEA 2024-11-13: Snow storm reported at origin. Delay of 91 minutes attributed to weather conditions. Ground stop issued 1905-2036 local time.
+
+FLT B6451 ATL 2024-08-14: Ice on runway reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 2120-2135 local time.
+
+FLT DL879 JFK 2024-11-16: Ice on runway reported at origin. Delay of 111 minutes attributed to weather conditions. Ground stop issued 0613-0804 local time.
+
+FLT AA458 LAX 2024-08-07: Snow storm reported at origin. Delay of 43 minutes attributed to weather conditions. Ground stop issued 1558-1641 local time.
+
+FLT AA669 LAX 2024-10-03: Low visibility reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 2135-0002 local time.
+
+FLT DL403 SEA 2024-05-03: Heavy fog reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 0547-0645 local time.
+
+FLT B6299 DEN 2024-05-01: Heavy fog reported at origin. Delay of 93 minutes attributed to weather conditions. Ground stop issued 1202-1335 local time.
+
+FLT SW546 DFW 2024-07-08: Snow storm reported at origin. Delay of 116 minutes attributed to weather conditions. Ground stop issued 1441-1637 local time.
+
+FLT DL233 DEN 2024-01-10: Snow storm reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1705-1946 local time.
+
+FLT SW600 SFO 2024-05-20: Ice on runway reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 2233-2328 local time.
+
+FLT SW969 SFO 2024-06-04: Ice on runway reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 1438-1540 local time.
+
+FLT DL361 SEA 2024-01-27: Low visibility reported at origin. Delay of 53 minutes attributed to weather conditions. Ground stop issued 0237-0330 local time.
+
+FLT SW745 SEA 2024-11-09: Snow storm reported at origin. Delay of 172 minutes attributed to weather conditions. Ground stop issued 1030-1322 local time.
+
+FLT SW715 ATL 2024-08-30: Thunderstorm reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 0359-0432 local time.
+
+FLT DL213 SFO 2024-08-25: Heavy fog reported at origin. Delay of 131 minutes attributed to weather conditions. Ground stop issued 0035-0246 local time.
+
+FLT SW308 SFO 2024-09-27: Heavy fog reported at origin. Delay of 27 minutes attributed to weather conditions. Ground stop issued 0329-0356 local time.
+
+FLT SW256 MIA 2024-04-21: Heavy fog reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 1010-1138 local time.
+
+FLT B6922 LAX 2024-10-24: High winds reported at origin. Delay of 76 minutes attributed to weather conditions. Ground stop issued 0821-0937 local time.
+
+FLT B6748 DFW 2024-06-24: Snow storm reported at origin. Delay of 177 minutes attributed to weather conditions. Ground stop issued 0910-1207 local time.
+
+FLT SW454 ORD 2024-05-19: Snow storm reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 2055-2302 local time.
+
+FLT DL696 DEN 2024-10-10: Low visibility reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 1440-1740 local time.
+
+FLT DL271 JFK 2024-05-24: Heavy fog reported at origin. Delay of 171 minutes attributed to weather conditions. Ground stop issued 1609-1900 local time.
+
+FLT DL848 SEA 2024-04-02: Ice on runway reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1143-1424 local time.
+
+FLT B6488 MIA 2024-07-29: Ice on runway reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 2120-2137 local time.
+
+FLT SW638 JFK 2024-02-13: Heavy fog reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 1222-1403 local time.
+
+FLT SW343 SFO 2024-02-11: Heavy fog reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 1158-1220 local time.
+
+FLT UA793 SFO 2024-10-09: Snow storm reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 0351-0625 local time.
+
+FLT AA533 JFK 2024-07-23: High winds reported at origin. Delay of 106 minutes attributed to weather conditions. Ground stop issued 2001-2147 local time.
+
+FLT SW546 SEA 2024-04-05: Low visibility reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 2006-2109 local time.
+
+FLT AA652 JFK 2024-05-19: Ice on runway reported at origin. Delay of 69 minutes attributed to weather conditions. Ground stop issued 2346-0055 local time.
+
+FLT AA717 JFK 2024-08-05: Low visibility reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 0746-1036 local time.
+
+FLT DL818 SEA 2024-03-11: Ice on runway reported at origin. Delay of 164 minutes attributed to weather conditions. Ground stop issued 0727-1011 local time.
+
+FLT AA778 JFK 2024-12-13: Ice on runway reported at origin. Delay of 142 minutes attributed to weather conditions. Ground stop issued 1946-2208 local time.
+
+FLT B6302 SEA 2024-02-03: Thunderstorm reported at origin. Delay of 113 minutes attributed to weather conditions. Ground stop issued 1806-1959 local time.
+
+FLT AA656 DEN 2024-08-09: Heavy fog reported at origin. Delay of 122 minutes attributed to weather conditions. Ground stop issued 1005-1207 local time.
+
+FLT AA303 JFK 2024-09-03: Snow storm reported at origin. Delay of 98 minutes attributed to weather conditions. Ground stop issued 0506-0644 local time.
+
+FLT UA438 SEA 2024-01-17: Low visibility reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 0039-0147 local time.
+
+FLT B6110 SEA 2024-09-05: Heavy fog reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0157-0259 local time.
+
+FLT AA867 SFO 2024-12-04: Snow storm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 1100-1142 local time.
+
+FLT B6768 SEA 2024-10-23: Ice on runway reported at origin. Delay of 29 minutes attributed to weather conditions. Ground stop issued 0058-0127 local time.
+
+FLT UA234 ORD 2024-11-06: Ice on runway reported at origin. Delay of 72 minutes attributed to weather conditions. Ground stop issued 0809-0921 local time.
+
+FLT UA363 SFO 2024-05-15: Low visibility reported at origin. Delay of 65 minutes attributed to weather conditions. Ground stop issued 0641-0746 local time.
+
+FLT B6277 ORD 2024-04-17: Low visibility reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 0541-0617 local time.
+
+FLT UA307 ATL 2024-03-13: Heavy fog reported at origin. Delay of 177 minutes attributed to weather conditions. Ground stop issued 1032-1329 local time.
+
+FLT DL238 JFK 2024-07-23: Thunderstorm reported at origin. Delay of 76 minutes attributed to weather conditions. Ground stop issued 2004-2120 local time.
+
+FLT DL941 SEA 2024-10-23: High winds reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 0057-0217 local time.
+
+FLT SW112 DFW 2024-09-11: Snow storm reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 2055-2208 local time.
+
+FLT B6755 BOS 2024-03-02: Heavy fog reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 0053-0301 local time.
+
+FLT B6592 JFK 2024-10-12: Low visibility reported at origin. Delay of 112 minutes attributed to weather conditions. Ground stop issued 1526-1718 local time.
+
+FLT B6766 DFW 2024-04-15: Snow storm reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 0618-0916 local time.
+
+FLT DL324 ATL 2024-12-13: Snow storm reported at origin. Delay of 91 minutes attributed to weather conditions. Ground stop issued 1432-1603 local time.
+
+FLT SW303 JFK 2024-12-13: Heavy fog reported at origin. Delay of 26 minutes attributed to weather conditions. Ground stop issued 0232-0258 local time.
+
+FLT DL822 MIA 2024-04-14: Heavy fog reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 1213-1431 local time.
+
+FLT UA349 JFK 2024-01-12: High winds reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 1003-1114 local time.
+
+FLT UA669 LAX 2024-07-21: Heavy fog reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 0751-1008 local time.
+
+FLT UA931 SFO 2024-08-18: Low visibility reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 2015-2215 local time.
+
+FLT DL926 SFO 2024-01-07: Thunderstorm reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 0717-0804 local time.
+
+FLT SW511 JFK 2024-08-13: Thunderstorm reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 0711-0758 local time.
+
+FLT B6575 DEN 2024-08-18: Thunderstorm reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 0440-0707 local time.
+
+FLT AA116 ORD 2024-11-05: Thunderstorm reported at origin. Delay of 18 minutes attributed to weather conditions. Ground stop issued 0947-1005 local time.
+
+FLT B6682 SEA 2024-02-11: Snow storm reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0200-0302 local time.
+
+FLT DL897 DEN 2024-12-25: Low visibility reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 0800-1042 local time.
+
+FLT B6681 MIA 2024-08-02: Snow storm reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 1454-1731 local time.
+
+FLT UA775 MIA 2024-06-30: Snow storm reported at origin. Delay of 149 minutes attributed to weather conditions. Ground stop issued 1943-2212 local time.
+
+FLT AA707 SEA 2024-04-17: Heavy fog reported at origin. Delay of 56 minutes attributed to weather conditions. Ground stop issued 0114-0210 local time.
+
+FLT DL209 BOS 2024-06-01: Snow storm reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 0546-0643 local time.
+
+FLT DL889 BOS 2024-04-14: Snow storm reported at origin. Delay of 38 minutes attributed to weather conditions. Ground stop issued 0608-0646 local time.
+
+FLT DL849 ATL 2024-02-01: Heavy fog reported at origin. Delay of 89 minutes attributed to weather conditions. Ground stop issued 2003-2132 local time.
+
+FLT DL870 DEN 2024-07-11: Snow storm reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0012-0034 local time.
+
+FLT DL991 DEN 2024-12-15: Thunderstorm reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 0037-0218 local time.
+
+FLT B6888 SEA 2024-04-03: Low visibility reported at origin. Delay of 21 minutes attributed to weather conditions. Ground stop issued 0010-0031 local time.
+
+FLT SW433 SFO 2024-01-26: Thunderstorm reported at origin. Delay of 59 minutes attributed to weather conditions. Ground stop issued 0053-0152 local time.
+
+FLT UA107 MIA 2024-04-18: Ice on runway reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 0232-0437 local time.
+
+FLT SW639 ORD 2024-11-22: Thunderstorm reported at origin. Delay of 76 minutes attributed to weather conditions. Ground stop issued 0317-0433 local time.
+
+FLT SW107 DFW 2024-04-28: Snow storm reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 1554-1711 local time.
+
+FLT UA523 ATL 2024-11-11: Snow storm reported at origin. Delay of 139 minutes attributed to weather conditions. Ground stop issued 1308-1527 local time.
+
+FLT DL891 JFK 2024-10-27: Heavy fog reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 1524-1637 local time.
+
+FLT DL550 SFO 2024-08-22: Thunderstorm reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 2115-0005 local time.
+
+FLT SW692 SEA 2024-10-08: Snow storm reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 1705-1819 local time.
+
+FLT AA894 DFW 2024-01-05: Thunderstorm reported at origin. Delay of 107 minutes attributed to weather conditions. Ground stop issued 0731-0918 local time.
+
+FLT SW956 DEN 2024-02-02: Snow storm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 0915-0947 local time.
+
+FLT UA582 JFK 2024-04-30: Heavy fog reported at origin. Delay of 158 minutes attributed to weather conditions. Ground stop issued 1833-2111 local time.
+
+FLT B6837 DFW 2024-11-09: Thunderstorm reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 1115-1221 local time.
+
+FLT SW648 LAX 2024-10-27: Ice on runway reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0856-0958 local time.
+
+FLT UA475 JFK 2024-12-23: Ice on runway reported at origin. Delay of 144 minutes attributed to weather conditions. Ground stop issued 2034-2258 local time.
+
+FLT SW896 ATL 2024-01-05: Ice on runway reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 0542-0816 local time.
+
+FLT UA757 ORD 2024-03-18: Heavy fog reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 0103-0231 local time.
+
+FLT AA981 MIA 2024-10-10: Snow storm reported at origin. Delay of 38 minutes attributed to weather conditions. Ground stop issued 2223-2301 local time.
+
+FLT UA947 SFO 2024-07-26: Ice on runway reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 0834-1051 local time.
+
+FLT AA344 ATL 2024-03-02: Thunderstorm reported at origin. Delay of 18 minutes attributed to weather conditions. Ground stop issued 1629-1647 local time.
+
+FLT B6900 SFO 2024-01-21: Low visibility reported at origin. Delay of 155 minutes attributed to weather conditions. Ground stop issued 2342-0217 local time.
+
+FLT B6783 BOS 2024-05-23: Ice on runway reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 0550-0704 local time.
+
+FLT UA521 DEN 2024-01-05: Snow storm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 0446-0518 local time.
+
+FLT B6332 BOS 2024-01-24: Low visibility reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 1335-1407 local time.
+
+FLT UA246 MIA 2024-12-16: Thunderstorm reported at origin. Delay of 52 minutes attributed to weather conditions. Ground stop issued 2224-2316 local time.
+
+FLT UA521 DFW 2024-04-04: High winds reported at origin. Delay of 108 minutes attributed to weather conditions. Ground stop issued 1321-1509 local time.
+
+FLT AA939 SFO 2024-09-08: Low visibility reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 2128-2215 local time.
+
+FLT DL572 SFO 2024-06-25: Low visibility reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 0230-0318 local time.
+
+FLT UA578 BOS 2024-08-21: Snow storm reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 1943-2045 local time.
+
+FLT AA486 SFO 2024-11-02: Ice on runway reported at origin. Delay of 86 minutes attributed to weather conditions. Ground stop issued 0859-1025 local time.
+
+FLT AA529 SEA 2024-06-10: Thunderstorm reported at origin. Delay of 29 minutes attributed to weather conditions. Ground stop issued 0725-0754 local time.
+
+FLT B6532 DFW 2024-09-12: Snow storm reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 2343-2358 local time.
+
+FLT SW494 DFW 2024-11-07: Heavy fog reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 2304-2359 local time.
+
+FLT AA155 ORD 2024-09-16: Low visibility reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 1458-1756 local time.
+
+FLT AA620 SEA 2024-02-25: Heavy fog reported at origin. Delay of 90 minutes attributed to weather conditions. Ground stop issued 0027-0157 local time.
+
+FLT AA506 ORD 2024-03-15: Thunderstorm reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 1143-1408 local time.
+
+FLT B6648 DEN 2024-09-18: Low visibility reported at origin. Delay of 153 minutes attributed to weather conditions. Ground stop issued 0003-0236 local time.
+
+FLT AA418 DFW 2024-06-02: Ice on runway reported at origin. Delay of 169 minutes attributed to weather conditions. Ground stop issued 1740-2029 local time.
+
+FLT SW383 SFO 2024-02-07: Snow storm reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 2204-2305 local time.
+
+FLT DL184 ORD 2024-07-29: Ice on runway reported at origin. Delay of 173 minutes attributed to weather conditions. Ground stop issued 0127-0420 local time.
+
+FLT DL859 BOS 2024-03-02: Thunderstorm reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 1545-1640 local time.
+
+FLT B6540 SFO 2024-12-18: Thunderstorm reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 0235-0435 local time.
+
+FLT SW594 BOS 2024-04-18: Thunderstorm reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 2137-2336 local time.
+
+FLT UA698 MIA 2024-08-20: Low visibility reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 1345-1534 local time.
+
+FLT UA943 BOS 2024-04-24: High winds reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 1435-1650 local time.
+
+FLT B6933 SFO 2024-10-28: Snow storm reported at origin. Delay of 43 minutes attributed to weather conditions. Ground stop issued 2328-0011 local time.
+
+FLT AA833 BOS 2024-09-03: Ice on runway reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 2208-2335 local time.
+
+FLT B6303 LAX 2024-08-15: Ice on runway reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 0059-0304 local time.
+
+FLT DL256 SEA 2024-10-02: Low visibility reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 1416-1624 local time.
+
+FLT SW864 SEA 2024-04-18: Low visibility reported at origin. Delay of 113 minutes attributed to weather conditions. Ground stop issued 0553-0746 local time.
+
+FLT B6327 LAX 2024-08-01: Thunderstorm reported at origin. Delay of 172 minutes attributed to weather conditions. Ground stop issued 0221-0513 local time.
+
+FLT SW147 DFW 2024-09-04: Heavy fog reported at origin. Delay of 49 minutes attributed to weather conditions. Ground stop issued 2225-2314 local time.
+
+FLT DL744 BOS 2024-12-30: Thunderstorm reported at origin. Delay of 93 minutes attributed to weather conditions. Ground stop issued 0030-0203 local time.
+
+FLT B6191 SFO 2024-11-11: Low visibility reported at origin. Delay of 86 minutes attributed to weather conditions. Ground stop issued 1311-1437 local time.
+
+FLT DL842 ORD 2024-06-24: Snow storm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 1958-2040 local time.
+
+FLT DL376 ATL 2024-02-07: Low visibility reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 0942-1018 local time.
+
+FLT DL895 LAX 2024-09-23: Snow storm reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 0421-0541 local time.
+
+FLT UA251 LAX 2024-04-22: Snow storm reported at origin. Delay of 153 minutes attributed to weather conditions. Ground stop issued 0913-1146 local time.
+
+FLT UA884 JFK 2024-09-26: Heavy fog reported at origin. Delay of 169 minutes attributed to weather conditions. Ground stop issued 2324-0213 local time.
+
+FLT B6357 ORD 2024-06-27: Heavy fog reported at origin. Delay of 64 minutes attributed to weather conditions. Ground stop issued 0203-0307 local time.
+
+FLT AA835 SFO 2024-06-04: Ice on runway reported at origin. Delay of 50 minutes attributed to weather conditions. Ground stop issued 1949-2039 local time.
+
+FLT B6352 ATL 2024-10-23: Snow storm reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 0909-1136 local time.
+
+FLT UA593 ORD 2024-02-01: High winds reported at origin. Delay of 129 minutes attributed to weather conditions. Ground stop issued 1300-1509 local time.
+
+FLT AA337 DFW 2024-09-02: Ice on runway reported at origin. Delay of 51 minutes attributed to weather conditions. Ground stop issued 1218-1309 local time.
+
+FLT SW899 DEN 2024-09-09: Heavy fog reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 2002-2117 local time.
+
+FLT DL570 DFW 2024-04-03: Thunderstorm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 0718-0750 local time.
+
+FLT SW791 DEN 2024-03-18: Low visibility reported at origin. Delay of 35 minutes attributed to weather conditions. Ground stop issued 2247-2322 local time.
+
+FLT AA421 SEA 2024-01-19: Heavy fog reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 1110-1238 local time.
+
+FLT B6870 MIA 2024-11-14: Heavy fog reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 0006-0101 local time.
+
+FLT SW395 LAX 2024-03-28: High winds reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 0136-0408 local time.
+
+FLT AA377 ORD 2024-01-18: High winds reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 2057-2339 local time.
+
+FLT DL935 LAX 2024-03-28: Snow storm reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 0305-0555 local time.
+
+FLT B6838 SEA 2024-08-29: Heavy fog reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 1652-1853 local time.
+
+FLT DL476 SFO 2024-07-24: Low visibility reported at origin. Delay of 38 minutes attributed to weather conditions. Ground stop issued 2254-2332 local time.
+
+FLT SW785 ATL 2024-10-11: High winds reported at origin. Delay of 84 minutes attributed to weather conditions. Ground stop issued 1725-1849 local time.
+
+FLT SW484 SFO 2024-01-10: Low visibility reported at origin. Delay of 97 minutes attributed to weather conditions. Ground stop issued 0948-1125 local time.
+
+FLT B6333 MIA 2024-07-31: Heavy fog reported at origin. Delay of 104 minutes attributed to weather conditions. Ground stop issued 0533-0717 local time.
+
+FLT SW922 SEA 2024-11-05: Snow storm reported at origin. Delay of 176 minutes attributed to weather conditions. Ground stop issued 0535-0831 local time.
+
+FLT AA824 BOS 2024-02-09: High winds reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 0252-0358 local time.
+
+FLT SW349 ATL 2024-05-27: Snow storm reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 0607-0721 local time.
+
+FLT AA863 LAX 2024-03-13: Low visibility reported at origin. Delay of 140 minutes attributed to weather conditions. Ground stop issued 2159-0019 local time.
+
+FLT AA641 MIA 2024-05-26: Low visibility reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 1019-1236 local time.
+
+FLT DL385 DEN 2024-12-01: Low visibility reported at origin. Delay of 20 minutes attributed to weather conditions. Ground stop issued 1853-1913 local time.
+
+FLT B6848 SEA 2024-02-15: Ice on runway reported at origin. Delay of 25 minutes attributed to weather conditions. Ground stop issued 0015-0040 local time.
+
+FLT DL172 ATL 2024-10-27: High winds reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 1907-2105 local time.
+
+FLT B6508 SFO 2024-01-01: Low visibility reported at origin. Delay of 133 minutes attributed to weather conditions. Ground stop issued 0539-0752 local time.
+
+FLT SW711 JFK 2024-05-11: High winds reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 0954-1010 local time.
+
+FLT DL963 JFK 2024-06-12: Low visibility reported at origin. Delay of 123 minutes attributed to weather conditions. Ground stop issued 1528-1731 local time.
+
+FLT AA501 DFW 2024-07-15: Heavy fog reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 1847-1941 local time.
+
+FLT AA320 JFK 2024-05-25: Snow storm reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 0435-0636 local time.
+
+FLT UA209 SEA 2024-01-20: Snow storm reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 1732-1913 local time.
+
+FLT SW880 DFW 2024-06-01: Snow storm reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 0904-1021 local time.
+
+FLT B6836 BOS 2024-06-10: Thunderstorm reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 1741-1842 local time.
+
+FLT DL310 SFO 2024-03-15: Snow storm reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 1214-1426 local time.
+
+FLT DL732 BOS 2024-07-15: Heavy fog reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 0331-0548 local time.
+
+FLT B6647 BOS 2024-01-23: Ice on runway reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 0954-1102 local time.
+
+FLT AA422 JFK 2024-07-22: Heavy fog reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 0606-0621 local time.
+
+FLT B6104 SFO 2024-08-24: Heavy fog reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 1207-1327 local time.
+
+FLT UA710 BOS 2024-09-16: High winds reported at origin. Delay of 126 minutes attributed to weather conditions. Ground stop issued 1407-1613 local time.
+
+FLT AA158 SEA 2024-04-25: Thunderstorm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 1709-1751 local time.
+
+FLT B6385 ORD 2024-01-24: Heavy fog reported at origin. Delay of 44 minutes attributed to weather conditions. Ground stop issued 1906-1950 local time.
+
+FLT B6668 BOS 2024-03-11: Ice on runway reported at origin. Delay of 112 minutes attributed to weather conditions. Ground stop issued 0343-0535 local time.
+
+FLT UA737 JFK 2024-09-18: Ice on runway reported at origin. Delay of 133 minutes attributed to weather conditions. Ground stop issued 1917-2130 local time.
+
+FLT DL363 DEN 2024-11-24: Ice on runway reported at origin. Delay of 113 minutes attributed to weather conditions. Ground stop issued 0742-0935 local time.
+
+FLT SW114 DEN 2024-11-17: Heavy fog reported at origin. Delay of 43 minutes attributed to weather conditions. Ground stop issued 1340-1423 local time.
+
+FLT B6892 MIA 2024-04-23: Heavy fog reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 0733-0827 local time.
+
+FLT DL345 ATL 2024-11-19: Ice on runway reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 2210-2311 local time.
+
+FLT UA239 ATL 2024-06-11: High winds reported at origin. Delay of 142 minutes attributed to weather conditions. Ground stop issued 1043-1305 local time.
+
+FLT SW424 JFK 2024-11-09: Snow storm reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 0448-0746 local time.
+
+FLT AA147 LAX 2024-11-18: Ice on runway reported at origin. Delay of 53 minutes attributed to weather conditions. Ground stop issued 1728-1821 local time.
+
+FLT SW598 DEN 2024-07-03: High winds reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 1431-1629 local time.
+
+FLT SW624 BOS 2024-08-29: Ice on runway reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 0312-0329 local time.
+
+FLT UA140 BOS 2024-11-04: Thunderstorm reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 1508-1523 local time.
+
+FLT SW620 MIA 2024-03-07: Thunderstorm reported at origin. Delay of 124 minutes attributed to weather conditions. Ground stop issued 1921-2125 local time.
+
+FLT B6891 BOS 2024-06-30: High winds reported at origin. Delay of 143 minutes attributed to weather conditions. Ground stop issued 1419-1642 local time.
+
+FLT B6867 ATL 2024-08-26: High winds reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 2001-2206 local time.
+
+FLT AA322 DEN 2024-09-10: Low visibility reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 1100-1115 local time.
+
+FLT B6309 LAX 2024-06-01: Low visibility reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 2003-2123 local time.
+
+FLT B6171 BOS 2024-02-15: Heavy fog reported at origin. Delay of 67 minutes attributed to weather conditions. Ground stop issued 1154-1301 local time.
+
+FLT UA479 JFK 2024-07-03: Heavy fog reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 2234-2342 local time.
+
+FLT DL400 DFW 2024-10-04: Low visibility reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 1041-1318 local time.
+
+FLT DL852 SFO 2024-07-22: Snow storm reported at origin. Delay of 31 minutes attributed to weather conditions. Ground stop issued 0217-0248 local time.
+
+FLT SW200 BOS 2024-04-21: Snow storm reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 1424-1446 local time.
+
+FLT B6623 ATL 2024-07-02: Thunderstorm reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1543-1824 local time.
+
+FLT AA760 MIA 2024-06-30: Ice on runway reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 2242-2356 local time.
+
+FLT UA294 ORD 2024-12-11: Snow storm reported at origin. Delay of 166 minutes attributed to weather conditions. Ground stop issued 2326-0212 local time.
+
+FLT SW121 JFK 2024-04-04: Snow storm reported at origin. Delay of 163 minutes attributed to weather conditions. Ground stop issued 1036-1319 local time.
+
+FLT UA914 JFK 2024-11-10: Heavy fog reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 0758-1039 local time.
+
+FLT UA845 BOS 2024-09-17: Ice on runway reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 0245-0510 local time.
+
+FLT UA907 ATL 2024-04-05: Low visibility reported at origin. Delay of 93 minutes attributed to weather conditions. Ground stop issued 0852-1025 local time.
+
+FLT UA422 SEA 2024-06-08: Low visibility reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 0719-0820 local time.
+
+FLT B6512 SFO 2024-02-08: Low visibility reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 0509-0746 local time.
+
+FLT B6613 SFO 2024-10-26: Thunderstorm reported at origin. Delay of 176 minutes attributed to weather conditions. Ground stop issued 2214-0110 local time.
+
+FLT DL665 LAX 2024-08-10: Heavy fog reported at origin. Delay of 112 minutes attributed to weather conditions. Ground stop issued 0434-0626 local time.
+
+FLT UA329 ORD 2024-12-15: Heavy fog reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 0102-0314 local time.
+
+FLT UA460 DEN 2024-02-09: Heavy fog reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 0611-0909 local time.
+
+FLT SW914 JFK 2024-06-04: Low visibility reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 0951-1027 local time.
+
+FLT UA914 BOS 2024-03-17: Thunderstorm reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 0848-0956 local time.
+
+FLT AA671 ORD 2024-11-10: Snow storm reported at origin. Delay of 148 minutes attributed to weather conditions. Ground stop issued 1032-1300 local time.
+
+FLT UA720 SFO 2024-04-16: High winds reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 1954-2105 local time.
+
+FLT SW467 DFW 2024-11-23: Thunderstorm reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 1200-1434 local time.
+
+FLT UA911 JFK 2024-12-05: Thunderstorm reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 1210-1400 local time.
+
+FLT B6962 DEN 2024-05-16: Heavy fog reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 2148-2303 local time.
+
+FLT UA517 ATL 2024-07-03: Ice on runway reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 1951-2127 local time.
+
+FLT B6353 LAX 2024-03-23: High winds reported at origin. Delay of 30 minutes attributed to weather conditions. Ground stop issued 0030-0100 local time.
+
+FLT SW585 SEA 2024-10-12: Ice on runway reported at origin. Delay of 67 minutes attributed to weather conditions. Ground stop issued 1638-1745 local time.
+
+FLT DL583 MIA 2024-01-25: Thunderstorm reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 0322-0423 local time.
+
+FLT SW225 ATL 2024-05-24: High winds reported at origin. Delay of 38 minutes attributed to weather conditions. Ground stop issued 2234-2312 local time.
+
+FLT B6972 DFW 2024-10-06: Snow storm reported at origin. Delay of 163 minutes attributed to weather conditions. Ground stop issued 1534-1817 local time.
+
+FLT AA396 SFO 2024-10-21: Thunderstorm reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 0334-0501 local time.
+
+FLT AA628 DEN 2024-02-01: Heavy fog reported at origin. Delay of 97 minutes attributed to weather conditions. Ground stop issued 0521-0658 local time.
+
+FLT SW316 BOS 2024-06-14: Thunderstorm reported at origin. Delay of 43 minutes attributed to weather conditions. Ground stop issued 1412-1455 local time.
+
+FLT AA744 ORD 2024-01-16: Thunderstorm reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 0728-0845 local time.
+
+FLT UA802 DFW 2024-07-06: Heavy fog reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 2014-2120 local time.
+
+FLT UA656 JFK 2024-08-01: Heavy fog reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 0850-1102 local time.
+
+FLT UA302 JFK 2024-08-01: Low visibility reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 0139-0252 local time.
+
+FLT SW427 LAX 2024-10-01: Ice on runway reported at origin. Delay of 144 minutes attributed to weather conditions. Ground stop issued 1222-1446 local time.
+
+FLT AA932 JFK 2024-12-29: Thunderstorm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 2247-2319 local time.
+
+FLT UA677 MIA 2024-05-13: Snow storm reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 1757-1838 local time.
+
+FLT DL461 ORD 2024-01-12: Thunderstorm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 1259-1331 local time.
+
+FLT DL548 SFO 2024-02-10: Heavy fog reported at origin. Delay of 35 minutes attributed to weather conditions. Ground stop issued 1951-2026 local time.
+
+FLT SW121 DEN 2024-12-30: Ice on runway reported at origin. Delay of 95 minutes attributed to weather conditions. Ground stop issued 1436-1611 local time.
+
+FLT UA287 SEA 2024-12-24: Low visibility reported at origin. Delay of 117 minutes attributed to weather conditions. Ground stop issued 0100-0257 local time.
+
+FLT DL441 SFO 2024-02-08: Heavy fog reported at origin. Delay of 141 minutes attributed to weather conditions. Ground stop issued 1452-1713 local time.
+
+FLT B6760 LAX 2024-12-17: High winds reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 0951-1225 local time.
+
+FLT B6904 JFK 2024-04-01: Ice on runway reported at origin. Delay of 159 minutes attributed to weather conditions. Ground stop issued 0654-0933 local time.
+
+FLT DL596 MIA 2024-12-24: Heavy fog reported at origin. Delay of 86 minutes attributed to weather conditions. Ground stop issued 0941-1107 local time.
+
+FLT AA152 SEA 2024-11-18: Low visibility reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 0026-0231 local time.
+
+FLT UA310 SEA 2024-07-13: Ice on runway reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 1008-1223 local time.
+
+FLT B6849 BOS 2024-02-06: Thunderstorm reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 2306-0001 local time.
+
+FLT UA627 DEN 2024-03-22: Ice on runway reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 0458-0534 local time.
+
+FLT B6799 BOS 2024-01-05: High winds reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 0327-0421 local time.
+
+FLT UA521 DFW 2024-06-25: Snow storm reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 0225-0515 local time.
+
+FLT AA945 ATL 2024-01-08: High winds reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0716-0738 local time.
+
+FLT B6224 DFW 2024-08-31: Ice on runway reported at origin. Delay of 72 minutes attributed to weather conditions. Ground stop issued 1620-1732 local time.
+
+FLT UA347 JFK 2024-11-16: Thunderstorm reported at origin. Delay of 89 minutes attributed to weather conditions. Ground stop issued 1440-1609 local time.
+
+FLT B6460 ATL 2024-02-29: Ice on runway reported at origin. Delay of 112 minutes attributed to weather conditions. Ground stop issued 1806-1958 local time.
+
+FLT UA237 SFO 2024-05-23: Ice on runway reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 1701-1901 local time.
+
+FLT AA728 DEN 2024-06-10: Low visibility reported at origin. Delay of 141 minutes attributed to weather conditions. Ground stop issued 0447-0708 local time.
+
+FLT UA462 BOS 2024-07-21: Low visibility reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 0128-0223 local time.
+
+FLT AA907 DEN 2024-04-07: Thunderstorm reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 2042-2153 local time.
+
+FLT AA113 ORD 2024-08-01: Heavy fog reported at origin. Delay of 51 minutes attributed to weather conditions. Ground stop issued 1711-1802 local time.
+
+FLT UA669 ATL 2024-05-24: Ice on runway reported at origin. Delay of 56 minutes attributed to weather conditions. Ground stop issued 1050-1146 local time.
+
+FLT AA942 ATL 2024-10-20: Snow storm reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 1432-1608 local time.
+
+FLT SW187 SFO 2024-04-24: Thunderstorm reported at origin. Delay of 111 minutes attributed to weather conditions. Ground stop issued 0424-0615 local time.
+
+FLT AA522 ATL 2024-03-20: Ice on runway reported at origin. Delay of 149 minutes attributed to weather conditions. Ground stop issued 0307-0536 local time.
+
+FLT DL912 JFK 2024-01-23: Snow storm reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 2108-2258 local time.
+
+FLT UA700 LAX 2024-01-25: Thunderstorm reported at origin. Delay of 176 minutes attributed to weather conditions. Ground stop issued 1848-2144 local time.
+
+FLT B6397 MIA 2024-11-07: Thunderstorm reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 0911-1110 local time.
+
+FLT B6398 SEA 2024-01-09: High winds reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 1501-1611 local time.
+
+FLT UA239 MIA 2024-02-06: Thunderstorm reported at origin. Delay of 99 minutes attributed to weather conditions. Ground stop issued 1122-1301 local time.
+
+FLT SW698 DFW 2024-02-26: Thunderstorm reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 1236-1317 local time.
+
+FLT UA847 SEA 2024-10-17: Snow storm reported at origin. Delay of 160 minutes attributed to weather conditions. Ground stop issued 0907-1147 local time.
+
+FLT AA429 DFW 2024-05-15: Snow storm reported at origin. Delay of 126 minutes attributed to weather conditions. Ground stop issued 1803-2009 local time.
+
+FLT UA157 SEA 2024-03-16: Ice on runway reported at origin. Delay of 91 minutes attributed to weather conditions. Ground stop issued 1909-2040 local time.
+
+FLT B6993 BOS 2024-07-17: Ice on runway reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1325-1358 local time.
+
+FLT AA727 BOS 2024-01-30: High winds reported at origin. Delay of 83 minutes attributed to weather conditions. Ground stop issued 0028-0151 local time.
+
+FLT B6140 DEN 2024-01-07: Heavy fog reported at origin. Delay of 155 minutes attributed to weather conditions. Ground stop issued 1305-1540 local time.
+
+FLT DL575 JFK 2024-02-28: Thunderstorm reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 1123-1328 local time.
+
+FLT SW734 SFO 2024-02-28: Thunderstorm reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 1312-1501 local time.
+
+FLT DL129 DFW 2024-05-23: Low visibility reported at origin. Delay of 105 minutes attributed to weather conditions. Ground stop issued 0949-1134 local time.
+
+FLT SW691 MIA 2024-06-05: Snow storm reported at origin. Delay of 146 minutes attributed to weather conditions. Ground stop issued 1433-1659 local time.
+
+FLT AA698 SFO 2024-11-15: Snow storm reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 0739-1011 local time.
+
+FLT SW236 SEA 2024-12-14: Snow storm reported at origin. Delay of 93 minutes attributed to weather conditions. Ground stop issued 2107-2240 local time.
+
+FLT UA262 BOS 2024-09-11: Heavy fog reported at origin. Delay of 52 minutes attributed to weather conditions. Ground stop issued 2318-0010 local time.
+
+FLT AA917 ORD 2024-04-08: Heavy fog reported at origin. Delay of 69 minutes attributed to weather conditions. Ground stop issued 1547-1656 local time.
+
+FLT SW347 JFK 2024-02-24: Heavy fog reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0920-1022 local time.
+
+FLT DL236 ATL 2024-11-15: Thunderstorm reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 0348-0516 local time.
+
+FLT AA435 DFW 2024-09-06: Heavy fog reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1813-2054 local time.
+
+FLT DL172 BOS 2024-04-08: Snow storm reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 0056-0314 local time.
+
+FLT B6349 DFW 2024-08-08: High winds reported at origin. Delay of 21 minutes attributed to weather conditions. Ground stop issued 0038-0059 local time.
+
+FLT UA323 LAX 2024-05-17: Low visibility reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 1903-2011 local time.
+
+FLT DL857 LAX 2024-10-18: Thunderstorm reported at origin. Delay of 112 minutes attributed to weather conditions. Ground stop issued 0656-0848 local time.
+
+FLT AA795 SFO 2024-08-30: Low visibility reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 0446-0514 local time.
+
+FLT SW601 ATL 2024-02-06: Heavy fog reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 1153-1353 local time.
+
+FLT SW235 ORD 2024-09-14: Thunderstorm reported at origin. Delay of 151 minutes attributed to weather conditions. Ground stop issued 1322-1553 local time.
+
+FLT SW615 ATL 2024-02-19: Heavy fog reported at origin. Delay of 34 minutes attributed to weather conditions. Ground stop issued 2224-2258 local time.
+
+FLT AA930 ATL 2024-12-09: Heavy fog reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 0633-0840 local time.
+
+FLT B6107 DFW 2024-07-22: Thunderstorm reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 0643-0810 local time.
+
+FLT UA958 DFW 2024-07-02: High winds reported at origin. Delay of 100 minutes attributed to weather conditions. Ground stop issued 1104-1244 local time.
+
+FLT SW941 DEN 2024-04-25: Ice on runway reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 0511-0801 local time.
+
+FLT B6996 LAX 2024-10-07: Low visibility reported at origin. Delay of 144 minutes attributed to weather conditions. Ground stop issued 0210-0434 local time.
+
+FLT AA814 DEN 2024-10-15: Heavy fog reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 0229-0444 local time.
+
+FLT AA574 LAX 2024-12-18: Ice on runway reported at origin. Delay of 139 minutes attributed to weather conditions. Ground stop issued 1611-1830 local time.
+
+FLT AA437 SEA 2024-06-21: Ice on runway reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 1231-1458 local time.
+
+FLT B6828 SEA 2024-08-11: High winds reported at origin. Delay of 35 minutes attributed to weather conditions. Ground stop issued 0309-0344 local time.
+
+FLT SW210 SEA 2024-05-24: Low visibility reported at origin. Delay of 94 minutes attributed to weather conditions. Ground stop issued 2316-0050 local time.
+
+FLT UA443 MIA 2024-08-18: Snow storm reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 0913-1131 local time.
+
+FLT B6248 BOS 2024-05-30: Thunderstorm reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 1704-1814 local time.
+
+FLT B6802 LAX 2024-01-08: Ice on runway reported at origin. Delay of 172 minutes attributed to weather conditions. Ground stop issued 0311-0603 local time.
+
+FLT UA558 SFO 2024-05-19: Ice on runway reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 2117-2253 local time.
+
+FLT DL210 SFO 2024-07-18: Thunderstorm reported at origin. Delay of 129 minutes attributed to weather conditions. Ground stop issued 0802-1011 local time.
+
+FLT UA541 DEN 2024-04-11: Heavy fog reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 0302-0424 local time.
+
+FLT UA464 ORD 2024-06-08: High winds reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 0146-0308 local time.
+
+FLT SW282 DFW 2024-05-23: Snow storm reported at origin. Delay of 177 minutes attributed to weather conditions. Ground stop issued 0604-0901 local time.
+
+FLT B6201 JFK 2024-09-27: Thunderstorm reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 0527-0703 local time.
+
+FLT DL234 DEN 2024-08-18: Snow storm reported at origin. Delay of 164 minutes attributed to weather conditions. Ground stop issued 0536-0820 local time.
+
+FLT SW713 ATL 2024-08-18: Thunderstorm reported at origin. Delay of 23 minutes attributed to weather conditions. Ground stop issued 0157-0220 local time.
+
+FLT UA795 LAX 2024-04-21: Heavy fog reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 2138-2214 local time.
+
+FLT DL459 ORD 2024-08-13: Thunderstorm reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 2327-0007 local time.
+
+FLT B6654 DFW 2024-06-26: Thunderstorm reported at origin. Delay of 37 minutes attributed to weather conditions. Ground stop issued 2205-2242 local time.
+
+FLT SW436 DFW 2024-03-21: Thunderstorm reported at origin. Delay of 158 minutes attributed to weather conditions. Ground stop issued 0707-0945 local time.
+
+FLT B6594 ATL 2024-12-23: Heavy fog reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 0610-0904 local time.
+
+FLT UA737 SEA 2024-04-12: Heavy fog reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0958-1020 local time.
+
+FLT SW478 LAX 2024-10-01: Low visibility reported at origin. Delay of 151 minutes attributed to weather conditions. Ground stop issued 0217-0448 local time.
+
+FLT UA768 ATL 2024-03-15: High winds reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 2049-2256 local time.
+
+FLT UA218 BOS 2024-02-24: Low visibility reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 1729-1832 local time.
+
+FLT SW397 BOS 2024-03-10: Snow storm reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 1830-2035 local time.
+
+FLT DL227 BOS 2024-12-01: Snow storm reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 1235-1411 local time.
+
+FLT B6802 ORD 2024-02-03: High winds reported at origin. Delay of 105 minutes attributed to weather conditions. Ground stop issued 1544-1729 local time.
+
+FLT B6264 MIA 2024-03-17: Ice on runway reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 1444-1611 local time.
+
+FLT B6501 JFK 2024-01-28: Low visibility reported at origin. Delay of 45 minutes attributed to weather conditions. Ground stop issued 0739-0824 local time.
+
+FLT AA203 JFK 2024-09-19: Thunderstorm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 0206-0248 local time.
+
+FLT SW657 JFK 2024-01-11: Snow storm reported at origin. Delay of 142 minutes attributed to weather conditions. Ground stop issued 0945-1207 local time.
+
+FLT SW238 ATL 2024-06-02: High winds reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 1603-1753 local time.
+
+FLT AA347 SEA 2024-01-02: Low visibility reported at origin. Delay of 142 minutes attributed to weather conditions. Ground stop issued 0402-0624 local time.
+
+FLT B6227 SEA 2024-11-17: Heavy fog reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 0226-0339 local time.
+
+FLT SW950 ORD 2024-06-10: Ice on runway reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 1604-1632 local time.
+
+FLT SW544 SEA 2024-10-24: Heavy fog reported at origin. Delay of 141 minutes attributed to weather conditions. Ground stop issued 1242-1503 local time.
+
+FLT SW514 DFW 2024-12-17: Heavy fog reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 1224-1252 local time.
+
+FLT UA653 BOS 2024-10-08: Snow storm reported at origin. Delay of 149 minutes attributed to weather conditions. Ground stop issued 2152-0021 local time.
+
+FLT UA159 DFW 2024-12-06: Snow storm reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 0418-0600 local time.
+
+FLT UA972 DEN 2024-09-16: Low visibility reported at origin. Delay of 89 minutes attributed to weather conditions. Ground stop issued 1625-1754 local time.
+
+FLT UA423 ATL 2024-08-04: Ice on runway reported at origin. Delay of 89 minutes attributed to weather conditions. Ground stop issued 1747-1916 local time.
+
+FLT AA531 ORD 2024-06-17: High winds reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 0531-0732 local time.
+
+FLT SW958 ATL 2024-06-24: Heavy fog reported at origin. Delay of 95 minutes attributed to weather conditions. Ground stop issued 1111-1246 local time.
+
+FLT UA190 LAX 2024-08-26: Low visibility reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 1713-1814 local time.
+
+FLT AA629 ORD 2024-10-02: High winds reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 0335-0535 local time.
+
+FLT UA791 JFK 2024-04-19: High winds reported at origin. Delay of 149 minutes attributed to weather conditions. Ground stop issued 0920-1149 local time.
+
+FLT UA164 MIA 2024-12-18: Low visibility reported at origin. Delay of 139 minutes attributed to weather conditions. Ground stop issued 1831-2050 local time.
+
+FLT AA287 DFW 2024-11-30: Snow storm reported at origin. Delay of 156 minutes attributed to weather conditions. Ground stop issued 1232-1508 local time.
+
+FLT SW468 ATL 2024-03-31: Snow storm reported at origin. Delay of 67 minutes attributed to weather conditions. Ground stop issued 0911-1018 local time.
+
+FLT B6116 ORD 2024-09-23: Ice on runway reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 2030-2047 local time.
+
+FLT UA587 ORD 2024-02-12: Snow storm reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 0625-0726 local time.
+
+FLT DL200 SFO 2024-07-25: Ice on runway reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0332-0434 local time.
+
+FLT AA578 DFW 2024-12-29: Heavy fog reported at origin. Delay of 143 minutes attributed to weather conditions. Ground stop issued 1717-1940 local time.
+
+FLT UA578 ORD 2024-02-28: High winds reported at origin. Delay of 94 minutes attributed to weather conditions. Ground stop issued 1140-1314 local time.
+
+FLT AA565 ORD 2024-07-11: Heavy fog reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 0430-0620 local time.
+
+FLT DL197 ATL 2024-04-04: Low visibility reported at origin. Delay of 122 minutes attributed to weather conditions. Ground stop issued 0101-0303 local time.
+
+FLT AA259 DEN 2024-08-10: Thunderstorm reported at origin. Delay of 103 minutes attributed to weather conditions. Ground stop issued 1739-1922 local time.
+
+FLT B6336 SEA 2024-10-03: Snow storm reported at origin. Delay of 64 minutes attributed to weather conditions. Ground stop issued 0010-0114 local time.
+
+FLT UA797 ORD 2024-06-12: Thunderstorm reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1640-1759 local time.
+
+FLT UA415 DEN 2024-04-30: High winds reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 1713-1940 local time.
+
+FLT SW865 JFK 2024-05-27: High winds reported at origin. Delay of 115 minutes attributed to weather conditions. Ground stop issued 1804-1959 local time.
+
+FLT B6204 BOS 2024-06-11: Heavy fog reported at origin. Delay of 126 minutes attributed to weather conditions. Ground stop issued 1020-1226 local time.
+
+FLT DL583 DEN 2024-12-23: High winds reported at origin. Delay of 94 minutes attributed to weather conditions. Ground stop issued 0150-0324 local time.
+
+FLT UA911 LAX 2024-01-04: Low visibility reported at origin. Delay of 83 minutes attributed to weather conditions. Ground stop issued 0911-1034 local time.
+
+FLT DL706 SFO 2024-05-13: Ice on runway reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 1223-1450 local time.
+
+FLT B6558 ATL 2024-05-05: Thunderstorm reported at origin. Delay of 38 minutes attributed to weather conditions. Ground stop issued 1030-1108 local time.
+
+FLT SW704 BOS 2024-07-03: Low visibility reported at origin. Delay of 84 minutes attributed to weather conditions. Ground stop issued 0632-0756 local time.
+
+FLT B6858 DFW 2024-09-24: Heavy fog reported at origin. Delay of 84 minutes attributed to weather conditions. Ground stop issued 2355-0119 local time.
+
+FLT SW623 SEA 2024-08-28: Thunderstorm reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 1928-2022 local time.
+
+FLT AA404 DEN 2024-09-11: Thunderstorm reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1447-1520 local time.
+
+FLT AA153 JFK 2024-05-25: Low visibility reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 1259-1419 local time.
+
+FLT B6542 SEA 2024-10-04: Ice on runway reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 0330-0445 local time.
+
+FLT AA252 BOS 2024-06-21: Ice on runway reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 1447-1629 local time.
+
+FLT UA764 SFO 2024-02-28: Thunderstorm reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 1218-1315 local time.
+
+FLT AA892 LAX 2024-09-21: Heavy fog reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 0133-0231 local time.
+
+FLT B6236 SFO 2024-11-18: Snow storm reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 1741-1917 local time.
+
+FLT AA690 LAX 2024-03-11: Low visibility reported at origin. Delay of 108 minutes attributed to weather conditions. Ground stop issued 0351-0539 local time.
+
+FLT UA868 MIA 2024-04-06: Thunderstorm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 0735-0817 local time.
+
+FLT SW530 DEN 2024-10-01: Low visibility reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 0809-1016 local time.
+
+FLT B6736 JFK 2024-08-27: Heavy fog reported at origin. Delay of 111 minutes attributed to weather conditions. Ground stop issued 1401-1552 local time.
+
+FLT AA713 SFO 2024-04-10: Thunderstorm reported at origin. Delay of 46 minutes attributed to weather conditions. Ground stop issued 1403-1449 local time.
+
+FLT DL925 MIA 2024-11-04: Thunderstorm reported at origin. Delay of 148 minutes attributed to weather conditions. Ground stop issued 2339-0207 local time.
+
+FLT SW517 SFO 2024-05-12: Heavy fog reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 2057-2207 local time.
+
+FLT UA156 MIA 2024-10-18: Thunderstorm reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1245-1526 local time.
+
+FLT UA141 DFW 2024-06-23: Low visibility reported at origin. Delay of 165 minutes attributed to weather conditions. Ground stop issued 0504-0749 local time.
+
+FLT B6649 ORD 2024-08-30: High winds reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 0311-0447 local time.
+
+FLT UA619 JFK 2024-09-10: Snow storm reported at origin. Delay of 29 minutes attributed to weather conditions. Ground stop issued 1351-1420 local time.
+
+FLT DL530 JFK 2024-05-06: High winds reported at origin. Delay of 86 minutes attributed to weather conditions. Ground stop issued 1057-1223 local time.
+
+FLT AA160 JFK 2024-09-06: Low visibility reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 1829-1949 local time.
+
+FLT SW956 MIA 2024-06-28: Ice on runway reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 1217-1338 local time.
+
+FLT B6359 ORD 2024-06-22: Snow storm reported at origin. Delay of 78 minutes attributed to weather conditions. Ground stop issued 1814-1932 local time.
+
+FLT B6659 BOS 2024-10-17: High winds reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 1019-1218 local time.
+
+FLT AA553 JFK 2024-03-31: Thunderstorm reported at origin. Delay of 171 minutes attributed to weather conditions. Ground stop issued 0042-0333 local time.
+
+FLT SW781 DFW 2024-07-04: High winds reported at origin. Delay of 142 minutes attributed to weather conditions. Ground stop issued 0604-0826 local time.
+
+FLT UA584 DEN 2024-10-16: Snow storm reported at origin. Delay of 176 minutes attributed to weather conditions. Ground stop issued 1308-1604 local time.
+
+FLT UA963 ORD 2024-04-28: Thunderstorm reported at origin. Delay of 46 minutes attributed to weather conditions. Ground stop issued 0942-1028 local time.
+
+FLT DL752 BOS 2024-05-03: Low visibility reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 0952-1107 local time.
+
+FLT SW988 JFK 2024-08-24: Thunderstorm reported at origin. Delay of 115 minutes attributed to weather conditions. Ground stop issued 1011-1206 local time.
+
+FLT B6711 MIA 2024-07-10: Ice on runway reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 1522-1635 local time.
+
+FLT AA369 MIA 2024-11-07: Low visibility reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 0312-0606 local time.
+
+FLT SW500 BOS 2024-04-28: Ice on runway reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 0708-0926 local time.
+
+FLT SW636 LAX 2024-04-21: High winds reported at origin. Delay of 86 minutes attributed to weather conditions. Ground stop issued 1932-2058 local time.
+
+FLT AA278 LAX 2024-03-18: High winds reported at origin. Delay of 45 minutes attributed to weather conditions. Ground stop issued 0421-0506 local time.
+
+FLT UA902 SEA 2024-09-22: Snow storm reported at origin. Delay of 104 minutes attributed to weather conditions. Ground stop issued 0355-0539 local time.
+
+FLT DL486 ORD 2024-08-09: Snow storm reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 2003-2301 local time.
+
+FLT DL639 DEN 2024-02-25: Ice on runway reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 2033-2049 local time.
+
+FLT UA102 SFO 2024-03-29: Snow storm reported at origin. Delay of 115 minutes attributed to weather conditions. Ground stop issued 0149-0344 local time.
+
+FLT B6983 DEN 2024-05-07: Low visibility reported at origin. Delay of 175 minutes attributed to weather conditions. Ground stop issued 1951-2246 local time.
+
+FLT SW862 JFK 2024-12-27: Heavy fog reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1535-1816 local time.
+
+FLT UA598 DEN 2024-06-22: Thunderstorm reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 0025-0105 local time.
+
+FLT SW459 ORD 2024-09-18: Thunderstorm reported at origin. Delay of 131 minutes attributed to weather conditions. Ground stop issued 0402-0613 local time.
+
+FLT AA447 LAX 2024-06-02: Thunderstorm reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 1749-1954 local time.
+
+FLT SW349 DEN 2024-12-27: High winds reported at origin. Delay of 18 minutes attributed to weather conditions. Ground stop issued 1707-1725 local time.
+
+FLT DL598 JFK 2024-03-24: Thunderstorm reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 0800-0840 local time.
+
+FLT DL429 ORD 2024-02-12: Ice on runway reported at origin. Delay of 175 minutes attributed to weather conditions. Ground stop issued 1039-1334 local time.
+
+FLT UA600 ATL 2024-03-14: Heavy fog reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 0840-1039 local time.
+
+FLT UA407 JFK 2024-01-03: Low visibility reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 1918-1934 local time.
+
+FLT DL697 SEA 2024-02-21: Ice on runway reported at origin. Delay of 44 minutes attributed to weather conditions. Ground stop issued 0904-0948 local time.
+
+FLT UA998 BOS 2024-04-24: High winds reported at origin. Delay of 27 minutes attributed to weather conditions. Ground stop issued 1357-1424 local time.
+
+FLT SW306 ATL 2024-01-21: Snow storm reported at origin. Delay of 35 minutes attributed to weather conditions. Ground stop issued 1151-1226 local time.
+
+FLT AA482 JFK 2024-08-24: Snow storm reported at origin. Delay of 159 minutes attributed to weather conditions. Ground stop issued 0514-0753 local time.
+
+FLT DL332 ORD 2024-10-16: High winds reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 0332-0430 local time.
+
+FLT DL712 LAX 2024-09-05: High winds reported at origin. Delay of 50 minutes attributed to weather conditions. Ground stop issued 0326-0416 local time.
+
+FLT B6893 MIA 2024-12-22: Low visibility reported at origin. Delay of 134 minutes attributed to weather conditions. Ground stop issued 1704-1918 local time.
+
+FLT UA765 DFW 2024-02-17: Ice on runway reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 0918-1006 local time.
+
+FLT DL515 ATL 2024-03-20: Snow storm reported at origin. Delay of 95 minutes attributed to weather conditions. Ground stop issued 2106-2241 local time.
+
+FLT AA928 ORD 2024-12-09: Thunderstorm reported at origin. Delay of 92 minutes attributed to weather conditions. Ground stop issued 2010-2142 local time.
+
+FLT SW605 DFW 2024-09-26: High winds reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 1536-1624 local time.
+
+FLT AA578 BOS 2024-06-30: Snow storm reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 2304-0017 local time.
+
+FLT AA562 ATL 2024-06-28: Low visibility reported at origin. Delay of 163 minutes attributed to weather conditions. Ground stop issued 2251-0134 local time.
+
+FLT B6749 SEA 2024-01-09: Ice on runway reported at origin. Delay of 144 minutes attributed to weather conditions. Ground stop issued 1731-1955 local time.
+
+FLT UA732 LAX 2024-09-19: High winds reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 1357-1612 local time.
+
+FLT DL408 DEN 2024-08-10: Thunderstorm reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1914-2155 local time.
+
+FLT B6234 DEN 2024-06-17: Low visibility reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 1511-1533 local time.
+
+FLT AA653 ATL 2024-03-24: Snow storm reported at origin. Delay of 92 minutes attributed to weather conditions. Ground stop issued 0303-0435 local time.
+
+FLT AA348 LAX 2024-08-01: Snow storm reported at origin. Delay of 37 minutes attributed to weather conditions. Ground stop issued 1640-1717 local time.
+
+FLT B6636 DEN 2024-04-26: Low visibility reported at origin. Delay of 69 minutes attributed to weather conditions. Ground stop issued 0704-0813 local time.
+
+FLT SW320 ATL 2024-12-03: Low visibility reported at origin. Delay of 49 minutes attributed to weather conditions. Ground stop issued 0936-1025 local time.
+
+FLT UA865 ORD 2024-05-22: Low visibility reported at origin. Delay of 139 minutes attributed to weather conditions. Ground stop issued 1912-2131 local time.
+
+FLT AA925 JFK 2024-02-20: Snow storm reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 1425-1527 local time.
+
+FLT B6904 SFO 2024-02-23: Low visibility reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 0015-0031 local time.
+
+FLT AA333 MIA 2024-01-22: Snow storm reported at origin. Delay of 21 minutes attributed to weather conditions. Ground stop issued 2317-2338 local time.
+
+FLT B6640 SEA 2024-07-23: Low visibility reported at origin. Delay of 43 minutes attributed to weather conditions. Ground stop issued 0407-0450 local time.
+
+FLT B6962 JFK 2024-11-09: High winds reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 0117-0234 local time.
+
+FLT B6250 DEN 2024-02-25: Heavy fog reported at origin. Delay of 146 minutes attributed to weather conditions. Ground stop issued 0941-1207 local time.
+
+FLT AA250 DEN 2024-02-27: Ice on runway reported at origin. Delay of 111 minutes attributed to weather conditions. Ground stop issued 0500-0651 local time.
+
+FLT UA170 DFW 2024-09-27: Heavy fog reported at origin. Delay of 20 minutes attributed to weather conditions. Ground stop issued 1048-1108 local time.
+
+FLT SW941 MIA 2024-05-29: Low visibility reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 2105-2247 local time.
+
+FLT AA495 DEN 2024-07-07: Ice on runway reported at origin. Delay of 99 minutes attributed to weather conditions. Ground stop issued 1547-1726 local time.
+
+FLT B6178 LAX 2024-11-27: Heavy fog reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 0716-0827 local time.
+
+FLT UA365 ATL 2024-11-03: Thunderstorm reported at origin. Delay of 39 minutes attributed to weather conditions. Ground stop issued 0753-0832 local time.
+
+FLT B6258 ATL 2024-03-09: Ice on runway reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 2333-0233 local time.
+
+FLT DL348 ATL 2024-12-26: Snow storm reported at origin. Delay of 117 minutes attributed to weather conditions. Ground stop issued 1954-2151 local time.
+
+FLT UA957 SEA 2024-08-07: Thunderstorm reported at origin. Delay of 84 minutes attributed to weather conditions. Ground stop issued 0546-0710 local time.
+
+FLT SW425 LAX 2024-04-29: Ice on runway reported at origin. Delay of 122 minutes attributed to weather conditions. Ground stop issued 1806-2008 local time.
+
+FLT DL105 SEA 2024-08-14: Low visibility reported at origin. Delay of 65 minutes attributed to weather conditions. Ground stop issued 2359-0104 local time.
+
+FLT B6339 SEA 2024-03-10: Low visibility reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 2116-2133 local time.
+
+FLT SW780 DFW 2024-01-21: Ice on runway reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 0056-0153 local time.
+
+FLT UA786 DFW 2024-08-08: Heavy fog reported at origin. Delay of 175 minutes attributed to weather conditions. Ground stop issued 2217-0112 local time.
+
+FLT SW595 SEA 2024-07-06: High winds reported at origin. Delay of 52 minutes attributed to weather conditions. Ground stop issued 0231-0323 local time.
+
+FLT SW308 SFO 2024-03-21: Thunderstorm reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 1807-1855 local time.
+
+FLT SW211 SFO 2024-06-19: Low visibility reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 1318-1439 local time.
+
+FLT UA731 DEN 2024-01-03: Thunderstorm reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 0004-0153 local time.
+
+FLT AA148 ATL 2024-04-03: Ice on runway reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 0800-0915 local time.
+
+FLT B6306 ORD 2024-12-10: Thunderstorm reported at origin. Delay of 94 minutes attributed to weather conditions. Ground stop issued 1614-1748 local time.
+
+FLT SW123 DFW 2024-07-08: Snow storm reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 1227-1333 local time.
+
+FLT B6154 JFK 2024-08-06: High winds reported at origin. Delay of 155 minutes attributed to weather conditions. Ground stop issued 1820-2055 local time.
+
+FLT UA418 DEN 2024-01-10: Snow storm reported at origin. Delay of 92 minutes attributed to weather conditions. Ground stop issued 1226-1358 local time.
+
+FLT SW778 SFO 2024-06-18: Heavy fog reported at origin. Delay of 139 minutes attributed to weather conditions. Ground stop issued 1406-1625 local time.
+
+FLT B6638 ORD 2024-04-28: Low visibility reported at origin. Delay of 50 minutes attributed to weather conditions. Ground stop issued 0100-0150 local time.
+
+FLT B6373 ATL 2024-10-22: Snow storm reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 2108-2340 local time.
+
+FLT UA934 SFO 2024-01-22: Snow storm reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 1519-1819 local time.
+
+FLT DL120 DEN 2024-09-20: Low visibility reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 0455-0729 local time.
+
+FLT DL153 SEA 2024-12-16: Ice on runway reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0817-0839 local time.
+
+FLT AA595 LAX 2024-06-17: Heavy fog reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 1333-1615 local time.
+
+FLT SW723 DEN 2024-04-24: Heavy fog reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 2327-0047 local time.
+
+FLT SW943 DFW 2024-03-09: Snow storm reported at origin. Delay of 44 minutes attributed to weather conditions. Ground stop issued 2109-2153 local time.
+
+FLT SW811 DEN 2024-12-15: High winds reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 1638-1736 local time.
+
+FLT B6932 MIA 2024-09-06: Ice on runway reported at origin. Delay of 131 minutes attributed to weather conditions. Ground stop issued 1851-2102 local time.
+
+FLT B6292 ATL 2024-09-13: Snow storm reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 1039-1244 local time.
+
+FLT UA423 SEA 2024-03-06: Thunderstorm reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 2112-2148 local time.
+
+FLT DL392 MIA 2024-07-03: Heavy fog reported at origin. Delay of 166 minutes attributed to weather conditions. Ground stop issued 2229-0115 local time.
+
+FLT B6124 LAX 2024-08-22: Snow storm reported at origin. Delay of 45 minutes attributed to weather conditions. Ground stop issued 1033-1118 local time.
+
+FLT AA468 LAX 2024-07-07: Low visibility reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 0919-1131 local time.
+
+FLT AA794 ORD 2024-07-09: Snow storm reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 1515-1732 local time.
+
+FLT B6250 BOS 2024-09-18: Snow storm reported at origin. Delay of 29 minutes attributed to weather conditions. Ground stop issued 0145-0214 local time.
+
+FLT AA879 ATL 2024-09-22: Thunderstorm reported at origin. Delay of 179 minutes attributed to weather conditions. Ground stop issued 1554-1853 local time.
+
+FLT AA590 SEA 2024-10-22: Ice on runway reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 1245-1317 local time.
+
+FLT B6712 ATL 2024-12-05: Thunderstorm reported at origin. Delay of 29 minutes attributed to weather conditions. Ground stop issued 0423-0452 local time.
+
+FLT AA282 SFO 2024-07-03: Low visibility reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 1414-1509 local time.
+
+FLT DL192 ORD 2024-12-25: Thunderstorm reported at origin. Delay of 24 minutes attributed to weather conditions. Ground stop issued 0425-0449 local time.
+
+FLT SW633 SFO 2024-03-14: Snow storm reported at origin. Delay of 150 minutes attributed to weather conditions. Ground stop issued 1239-1509 local time.
+
+FLT DL181 ORD 2024-11-10: Heavy fog reported at origin. Delay of 176 minutes attributed to weather conditions. Ground stop issued 1852-2148 local time.
+
+FLT DL769 DFW 2024-04-16: Thunderstorm reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 0935-1038 local time.
+
+FLT B6377 JFK 2024-08-02: Low visibility reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 0245-0512 local time.
+
+FLT UA623 MIA 2024-12-26: Low visibility reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 1509-1716 local time.
+
+FLT UA777 SEA 2024-01-12: Thunderstorm reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 0445-0553 local time.
+
+FLT B6181 DFW 2024-05-29: Ice on runway reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 1544-1752 local time.
+
+FLT UA843 MIA 2024-04-29: High winds reported at origin. Delay of 165 minutes attributed to weather conditions. Ground stop issued 0641-0926 local time.
+
+FLT AA140 DEN 2024-03-03: Thunderstorm reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 0747-0955 local time.
+
+FLT AA921 BOS 2024-03-21: Thunderstorm reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 1516-1533 local time.
+
+FLT DL917 LAX 2024-10-29: High winds reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 0940-1157 local time.
+
+FLT UA879 ATL 2024-02-13: Snow storm reported at origin. Delay of 43 minutes attributed to weather conditions. Ground stop issued 1733-1816 local time.
+
+FLT UA185 SEA 2024-08-07: Low visibility reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 2148-2338 local time.
+
+FLT UA448 JFK 2024-02-19: Thunderstorm reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 1625-1746 local time.
+
+FLT B6473 BOS 2024-02-14: Thunderstorm reported at origin. Delay of 44 minutes attributed to weather conditions. Ground stop issued 1819-1903 local time.
+
+FLT AA665 SEA 2024-05-05: High winds reported at origin. Delay of 37 minutes attributed to weather conditions. Ground stop issued 1626-1703 local time.
+
+FLT B6745 JFK 2024-06-28: Ice on runway reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 0958-1015 local time.
+
+FLT DL430 JFK 2024-03-14: Thunderstorm reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 1114-1303 local time.
+
+FLT UA285 DEN 2024-07-03: Ice on runway reported at origin. Delay of 129 minutes attributed to weather conditions. Ground stop issued 0638-0847 local time.
+
+FLT AA825 SFO 2024-01-09: High winds reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 0040-0241 local time.
+
+FLT UA968 ORD 2024-11-06: Heavy fog reported at origin. Delay of 51 minutes attributed to weather conditions. Ground stop issued 0554-0645 local time.
+
+FLT UA574 DEN 2024-05-06: High winds reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 1952-2153 local time.
+
+FLT AA202 SEA 2024-01-22: Heavy fog reported at origin. Delay of 20 minutes attributed to weather conditions. Ground stop issued 1245-1305 local time.
+
+FLT AA316 ATL 2024-01-03: Low visibility reported at origin. Delay of 56 minutes attributed to weather conditions. Ground stop issued 0708-0804 local time.
+
+FLT DL804 ATL 2024-12-29: Snow storm reported at origin. Delay of 65 minutes attributed to weather conditions. Ground stop issued 0914-1019 local time.
+
+FLT SW508 DFW 2024-04-16: Snow storm reported at origin. Delay of 100 minutes attributed to weather conditions. Ground stop issued 1344-1524 local time.
+
+FLT AA974 ORD 2024-08-31: High winds reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 2219-2259 local time.
+
+FLT DL421 LAX 2024-04-22: High winds reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1610-1729 local time.
+
+FLT B6751 MIA 2024-03-26: Thunderstorm reported at origin. Delay of 173 minutes attributed to weather conditions. Ground stop issued 0758-1051 local time.
+
+FLT SW323 ORD 2024-12-19: Snow storm reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 1752-1914 local time.
+
+FLT B6702 MIA 2024-12-24: Low visibility reported at origin. Delay of 167 minutes attributed to weather conditions. Ground stop issued 2303-0150 local time.
+
+FLT SW104 JFK 2024-10-25: High winds reported at origin. Delay of 35 minutes attributed to weather conditions. Ground stop issued 0637-0712 local time.
+
+FLT UA171 LAX 2024-11-18: Snow storm reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 0047-0259 local time.
+
+FLT AA688 BOS 2024-07-30: Heavy fog reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 1112-1254 local time.
+
+FLT B6758 SFO 2024-12-04: Low visibility reported at origin. Delay of 108 minutes attributed to weather conditions. Ground stop issued 0249-0437 local time.
+
+FLT DL769 ORD 2024-11-11: Heavy fog reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 0535-0648 local time.
+
+FLT UA718 ATL 2024-03-18: Snow storm reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 2017-2315 local time.
+
+FLT UA114 JFK 2024-02-10: Low visibility reported at origin. Delay of 151 minutes attributed to weather conditions. Ground stop issued 1010-1241 local time.
+
+FLT AA421 MIA 2024-09-26: Snow storm reported at origin. Delay of 175 minutes attributed to weather conditions. Ground stop issued 1307-1602 local time.
+
+FLT SW374 SEA 2024-10-24: Ice on runway reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0657-0759 local time.
+
+FLT SW983 DEN 2024-07-23: Low visibility reported at origin. Delay of 169 minutes attributed to weather conditions. Ground stop issued 2217-0106 local time.
+
+FLT DL732 BOS 2024-08-09: Ice on runway reported at origin. Delay of 150 minutes attributed to weather conditions. Ground stop issued 0649-0919 local time.
+
+FLT B6827 DEN 2024-09-17: High winds reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0006-0108 local time.
+
+FLT SW134 MIA 2024-11-09: Ice on runway reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 0653-0721 local time.
+
+FLT UA857 DFW 2024-07-25: High winds reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 0857-0955 local time.
+
+FLT UA282 DEN 2024-06-06: Snow storm reported at origin. Delay of 158 minutes attributed to weather conditions. Ground stop issued 0447-0725 local time.
+
+FLT B6184 LAX 2024-04-08: Ice on runway reported at origin. Delay of 108 minutes attributed to weather conditions. Ground stop issued 0421-0609 local time.
+
+FLT DL649 MIA 2024-10-31: High winds reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 0230-0530 local time.
+
+FLT DL215 SEA 2024-11-06: Thunderstorm reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 1455-1557 local time.
+
+FLT DL538 MIA 2024-12-19: Ice on runway reported at origin. Delay of 115 minutes attributed to weather conditions. Ground stop issued 0035-0230 local time.
+
+FLT AA520 ORD 2024-10-27: Thunderstorm reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1214-1247 local time.
+
+FLT UA402 JFK 2024-12-30: Heavy fog reported at origin. Delay of 30 minutes attributed to weather conditions. Ground stop issued 0517-0547 local time.
+
+FLT AA780 ATL 2024-02-19: Snow storm reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 1526-1542 local time.
+
+FLT B6963 SEA 2024-04-12: Heavy fog reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 1530-1747 local time.
+
+FLT B6576 ATL 2024-07-12: Ice on runway reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 0901-1023 local time.
+
+FLT AA920 DFW 2024-01-23: Thunderstorm reported at origin. Delay of 123 minutes attributed to weather conditions. Ground stop issued 2134-2337 local time.
+
+FLT SW815 DFW 2024-09-28: High winds reported at origin. Delay of 108 minutes attributed to weather conditions. Ground stop issued 1312-1500 local time.
+
+FLT B6914 DFW 2024-01-08: Thunderstorm reported at origin. Delay of 34 minutes attributed to weather conditions. Ground stop issued 2244-2318 local time.
+
+FLT DL349 ORD 2024-11-05: High winds reported at origin. Delay of 98 minutes attributed to weather conditions. Ground stop issued 0907-1045 local time.
+
+FLT UA761 DFW 2024-03-03: Thunderstorm reported at origin. Delay of 18 minutes attributed to weather conditions. Ground stop issued 1630-1648 local time.
+
+FLT UA166 JFK 2024-10-08: Ice on runway reported at origin. Delay of 52 minutes attributed to weather conditions. Ground stop issued 0557-0649 local time.
+
+FLT SW277 ORD 2024-07-10: Low visibility reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 1955-2106 local time.
+
+FLT DL749 DFW 2024-12-27: Heavy fog reported at origin. Delay of 90 minutes attributed to weather conditions. Ground stop issued 1653-1823 local time.
+
+FLT AA371 SEA 2024-10-20: Snow storm reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 0633-0750 local time.
+
+FLT AA872 MIA 2024-05-04: Thunderstorm reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 0420-0720 local time.
+
+FLT DL243 BOS 2024-05-21: High winds reported at origin. Delay of 21 minutes attributed to weather conditions. Ground stop issued 0956-1017 local time.
+
+FLT B6533 LAX 2024-04-17: Thunderstorm reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 0409-0626 local time.
+
+FLT AA520 ATL 2024-04-02: Ice on runway reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 0336-0417 local time.
+
+FLT UA624 BOS 2024-07-17: Heavy fog reported at origin. Delay of 175 minutes attributed to weather conditions. Ground stop issued 0813-1108 local time.
+
+FLT UA619 SFO 2024-02-02: Low visibility reported at origin. Delay of 163 minutes attributed to weather conditions. Ground stop issued 0439-0722 local time.
+
+FLT SW430 MIA 2024-04-30: Low visibility reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0333-0355 local time.
+
+FLT B6129 ATL 2024-11-10: Heavy fog reported at origin. Delay of 164 minutes attributed to weather conditions. Ground stop issued 1425-1709 local time.
+
+FLT UA338 MIA 2024-06-10: Thunderstorm reported at origin. Delay of 136 minutes attributed to weather conditions. Ground stop issued 0031-0247 local time.
+
+FLT AA570 BOS 2024-06-21: Ice on runway reported at origin. Delay of 134 minutes attributed to weather conditions. Ground stop issued 1915-2129 local time.
+
+FLT UA752 ATL 2024-06-28: Thunderstorm reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 1942-2102 local time.
+
+FLT AA273 DEN 2024-12-01: Snow storm reported at origin. Delay of 64 minutes attributed to weather conditions. Ground stop issued 2015-2119 local time.
+
+FLT UA868 ATL 2024-06-16: Thunderstorm reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 0025-0307 local time.
+
+FLT B6734 DFW 2024-05-04: Snow storm reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 0646-0913 local time.
+
+FLT AA779 ORD 2024-05-16: Snow storm reported at origin. Delay of 37 minutes attributed to weather conditions. Ground stop issued 1547-1624 local time.
+
+FLT DL871 SEA 2024-01-03: Ice on runway reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1224-1343 local time.
+
+FLT UA910 BOS 2024-11-24: Snow storm reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 1351-1609 local time.
+
+FLT B6465 MIA 2024-11-01: Ice on runway reported at origin. Delay of 143 minutes attributed to weather conditions. Ground stop issued 0525-0748 local time.
+
+FLT UA205 LAX 2024-09-02: Thunderstorm reported at origin. Delay of 39 minutes attributed to weather conditions. Ground stop issued 0147-0226 local time.
+
+FLT B6112 ATL 2024-01-29: High winds reported at origin. Delay of 142 minutes attributed to weather conditions. Ground stop issued 1214-1436 local time.
+
+FLT UA206 SFO 2024-07-01: Snow storm reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 1345-1526 local time.
+
+FLT UA815 DFW 2024-02-15: Low visibility reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 0811-0922 local time.
+
+FLT B6412 MIA 2024-06-05: Heavy fog reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 1001-1251 local time.
+
+FLT AA919 ATL 2024-11-30: Low visibility reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 1710-1804 local time.
+
+FLT UA751 BOS 2024-05-16: Heavy fog reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 2202-2238 local time.
+
+FLT AA135 LAX 2024-03-03: Low visibility reported at origin. Delay of 103 minutes attributed to weather conditions. Ground stop issued 1801-1944 local time.
+
+FLT UA529 DFW 2024-03-28: Low visibility reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 2134-2215 local time.
+
+FLT UA211 SFO 2024-12-18: Ice on runway reported at origin. Delay of 150 minutes attributed to weather conditions. Ground stop issued 2302-0132 local time.
+
+FLT AA692 MIA 2024-04-25: Low visibility reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 1022-1102 local time.
+
+FLT SW465 ORD 2024-04-07: High winds reported at origin. Delay of 84 minutes attributed to weather conditions. Ground stop issued 0945-1109 local time.
+
+FLT UA527 MIA 2024-10-09: Snow storm reported at origin. Delay of 141 minutes attributed to weather conditions. Ground stop issued 0518-0739 local time.
+
+FLT B6465 ORD 2024-06-10: Low visibility reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1754-1913 local time.
+
+FLT B6223 SEA 2024-03-17: Thunderstorm reported at origin. Delay of 26 minutes attributed to weather conditions. Ground stop issued 0123-0149 local time.
+
+FLT AA408 MIA 2024-01-12: Heavy fog reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 0427-0654 local time.
+
+FLT B6698 MIA 2024-08-22: High winds reported at origin. Delay of 46 minutes attributed to weather conditions. Ground stop issued 1527-1613 local time.
+
+FLT DL550 JFK 2024-10-23: Thunderstorm reported at origin. Delay of 78 minutes attributed to weather conditions. Ground stop issued 1425-1543 local time.
+
+FLT SW737 SFO 2024-07-03: Snow storm reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 2149-2357 local time.
+
+FLT UA971 ATL 2024-12-14: Heavy fog reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 2138-2241 local time.
+
+FLT SW928 MIA 2024-02-17: High winds reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 0225-0322 local time.
+
+FLT UA881 ATL 2024-04-01: Snow storm reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 0438-0551 local time.
+
+FLT B6587 MIA 2024-10-21: Thunderstorm reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 2005-2237 local time.
+
+FLT B6448 ATL 2024-11-24: Low visibility reported at origin. Delay of 134 minutes attributed to weather conditions. Ground stop issued 2152-0006 local time.
+
+FLT B6462 ATL 2024-08-20: Low visibility reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 2008-2225 local time.
+
+FLT AA246 ATL 2024-06-16: Heavy fog reported at origin. Delay of 112 minutes attributed to weather conditions. Ground stop issued 1647-1839 local time.
+
+FLT AA587 SEA 2024-04-15: Heavy fog reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1636-1755 local time.
+
+FLT SW554 BOS 2024-06-02: Snow storm reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 2040-2108 local time.
+
+FLT B6186 DFW 2024-05-06: Snow storm reported at origin. Delay of 85 minutes attributed to weather conditions. Ground stop issued 1913-2038 local time.
+
+FLT AA809 ORD 2024-07-27: Thunderstorm reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 0952-1151 local time.
+
+FLT DL567 BOS 2024-01-26: Snow storm reported at origin. Delay of 117 minutes attributed to weather conditions. Ground stop issued 1236-1433 local time.
+
+FLT DL828 JFK 2024-05-16: High winds reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 1419-1435 local time.
+
+FLT UA112 SFO 2024-01-09: Low visibility reported at origin. Delay of 95 minutes attributed to weather conditions. Ground stop issued 0730-0905 local time.
+
+FLT AA384 MIA 2024-06-14: Heavy fog reported at origin. Delay of 26 minutes attributed to weather conditions. Ground stop issued 1131-1157 local time.
+
+FLT SW337 BOS 2024-12-08: High winds reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 0258-0346 local time.
+
+FLT SW600 ORD 2024-08-28: Ice on runway reported at origin. Delay of 107 minutes attributed to weather conditions. Ground stop issued 2215-0002 local time.
+
+FLT SW523 BOS 2024-08-10: Snow storm reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 0809-1103 local time.
+
+FLT UA734 ATL 2024-10-23: Ice on runway reported at origin. Delay of 30 minutes attributed to weather conditions. Ground stop issued 2037-2107 local time.
+
+FLT UA920 DFW 2024-02-11: High winds reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 1544-1751 local time.
+
+FLT UA805 LAX 2024-09-26: High winds reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 1331-1458 local time.
+
+FLT UA966 BOS 2024-11-13: Ice on runway reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 1207-1348 local time.
+
+FLT AA390 MIA 2024-01-09: Heavy fog reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 1700-1820 local time.
+
+FLT DL837 SFO 2024-10-01: Low visibility reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 0755-0937 local time.
+
+FLT AA134 JFK 2024-08-01: Heavy fog reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 2153-0008 local time.
+
+FLT SW876 MIA 2024-05-06: Heavy fog reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 2243-0005 local time.
+
+FLT UA751 ATL 2024-01-17: Heavy fog reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 2051-2303 local time.
+
+FLT DL875 DFW 2024-07-03: Heavy fog reported at origin. Delay of 85 minutes attributed to weather conditions. Ground stop issued 0430-0555 local time.
+
+FLT DL160 LAX 2024-10-02: Thunderstorm reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 0315-0421 local time.
+
+FLT B6986 DFW 2024-09-26: Thunderstorm reported at origin. Delay of 155 minutes attributed to weather conditions. Ground stop issued 0107-0342 local time.
+
+FLT AA564 BOS 2024-12-27: High winds reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 1149-1252 local time.
+
+FLT UA533 LAX 2024-08-01: Thunderstorm reported at origin. Delay of 56 minutes attributed to weather conditions. Ground stop issued 0001-0057 local time.
+
+FLT SW943 DFW 2024-12-16: Snow storm reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1624-1657 local time.
+
+FLT B6492 DEN 2024-12-03: Low visibility reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0808-0830 local time.
+
+FLT DL783 DFW 2024-09-30: Ice on runway reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 1432-1520 local time.
+
+FLT AA456 ORD 2024-03-14: Ice on runway reported at origin. Delay of 124 minutes attributed to weather conditions. Ground stop issued 1112-1316 local time.
+
+FLT UA393 ORD 2024-01-12: Thunderstorm reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 1012-1244 local time.
+
+FLT B6452 JFK 2024-01-05: Thunderstorm reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 0522-0603 local time.
+
+FLT SW519 LAX 2024-02-02: High winds reported at origin. Delay of 91 minutes attributed to weather conditions. Ground stop issued 1921-2052 local time.
+
+FLT SW411 ORD 2024-11-01: Thunderstorm reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 0048-0216 local time.
+
+FLT AA948 BOS 2024-12-17: Snow storm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 0128-0200 local time.
+
+FLT AA168 ATL 2024-04-12: Ice on runway reported at origin. Delay of 103 minutes attributed to weather conditions. Ground stop issued 2042-2225 local time.
+
+FLT UA476 MIA 2024-07-03: Thunderstorm reported at origin. Delay of 117 minutes attributed to weather conditions. Ground stop issued 0929-1126 local time.
+
+FLT B6900 DFW 2024-12-21: Ice on runway reported at origin. Delay of 156 minutes attributed to weather conditions. Ground stop issued 2347-0223 local time.
+
+FLT UA535 DFW 2024-08-22: Low visibility reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 1311-1326 local time.
+
+FLT B6998 ATL 2024-11-27: Low visibility reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 0949-1214 local time.
+
+FLT SW211 SEA 2024-08-21: Thunderstorm reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 0058-0200 local time.
+
+FLT B6305 SEA 2024-03-02: High winds reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 1552-1713 local time.
+
+FLT DL468 MIA 2024-02-12: Snow storm reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 1510-1612 local time.
+
+FLT UA436 LAX 2024-06-27: Snow storm reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 1751-2016 local time.
+
+FLT AA115 LAX 2024-04-02: Ice on runway reported at origin. Delay of 160 minutes attributed to weather conditions. Ground stop issued 1837-2117 local time.
+
+FLT B6351 LAX 2024-02-25: Heavy fog reported at origin. Delay of 111 minutes attributed to weather conditions. Ground stop issued 0110-0301 local time.
+
+FLT B6130 JFK 2024-12-07: Heavy fog reported at origin. Delay of 164 minutes attributed to weather conditions. Ground stop issued 0338-0622 local time.
+
+FLT SW353 ATL 2024-05-19: Ice on runway reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 1748-2025 local time.
+
+FLT UA563 JFK 2024-11-03: Thunderstorm reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 0127-0142 local time.
+
+FLT SW597 LAX 2024-08-24: Ice on runway reported at origin. Delay of 167 minutes attributed to weather conditions. Ground stop issued 0551-0838 local time.
+
+FLT AA658 ATL 2024-06-09: Snow storm reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 0143-0333 local time.
+
+FLT B6509 ORD 2024-01-23: Low visibility reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 0516-0635 local time.
+
+FLT B6397 DFW 2024-04-16: Low visibility reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 1940-2155 local time.
+
+FLT DL326 ORD 2024-09-08: Snow storm reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 1537-1802 local time.
+
+FLT AA309 DFW 2024-03-08: Low visibility reported at origin. Delay of 97 minutes attributed to weather conditions. Ground stop issued 0317-0454 local time.
+
+FLT B6835 ORD 2024-05-02: Thunderstorm reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 0505-0615 local time.
+
+FLT AA751 LAX 2024-04-21: Ice on runway reported at origin. Delay of 113 minutes attributed to weather conditions. Ground stop issued 1749-1942 local time.
+
+FLT B6451 ORD 2024-07-22: Thunderstorm reported at origin. Delay of 78 minutes attributed to weather conditions. Ground stop issued 1411-1529 local time.
+
+FLT SW200 LAX 2024-11-01: Heavy fog reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 0912-1112 local time.
+
+FLT UA671 SEA 2024-07-17: Snow storm reported at origin. Delay of 129 minutes attributed to weather conditions. Ground stop issued 0437-0646 local time.
+
+FLT B6644 ORD 2024-07-01: Thunderstorm reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1013-1046 local time.
+
+FLT UA406 DFW 2024-12-27: Snow storm reported at origin. Delay of 25 minutes attributed to weather conditions. Ground stop issued 1238-1303 local time.
+
+FLT B6600 BOS 2024-06-20: Thunderstorm reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 1212-1339 local time.
+
+FLT AA979 MIA 2024-11-25: Ice on runway reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 1603-1645 local time.
+
+FLT SW708 SEA 2024-01-30: Heavy fog reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 1747-1952 local time.
+
+FLT SW152 SFO 2024-01-21: Snow storm reported at origin. Delay of 21 minutes attributed to weather conditions. Ground stop issued 1223-1244 local time.
+
+FLT DL405 ATL 2024-07-25: Snow storm reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 2319-2355 local time.
+
+FLT AA183 SEA 2024-02-26: High winds reported at origin. Delay of 51 minutes attributed to weather conditions. Ground stop issued 0854-0945 local time.
+
+FLT AA295 SFO 2024-05-05: Snow storm reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 1047-1123 local time.
+
+FLT SW744 LAX 2024-04-29: Ice on runway reported at origin. Delay of 166 minutes attributed to weather conditions. Ground stop issued 2216-0102 local time.
+
+FLT SW160 DEN 2024-03-17: Ice on runway reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 0439-0520 local time.
+
+FLT B6787 JFK 2024-08-16: High winds reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 1755-1945 local time.
+
+FLT B6278 SFO 2024-11-17: Ice on runway reported at origin. Delay of 172 minutes attributed to weather conditions. Ground stop issued 1905-2157 local time.
+
+FLT B6544 DEN 2024-12-12: Low visibility reported at origin. Delay of 133 minutes attributed to weather conditions. Ground stop issued 0407-0620 local time.
+
+FLT B6367 MIA 2024-04-26: Heavy fog reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 1755-1910 local time.
+
+FLT SW904 BOS 2024-03-17: High winds reported at origin. Delay of 123 minutes attributed to weather conditions. Ground stop issued 1317-1520 local time.
+
+FLT AA168 MIA 2024-06-18: Heavy fog reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 2041-2109 local time.
+
+FLT B6135 MIA 2024-06-21: Heavy fog reported at origin. Delay of 98 minutes attributed to weather conditions. Ground stop issued 0015-0153 local time.
+
+FLT B6170 JFK 2024-09-12: Low visibility reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 1749-1947 local time.
+
+FLT AA120 DFW 2024-12-16: Heavy fog reported at origin. Delay of 130 minutes attributed to weather conditions. Ground stop issued 1427-1637 local time.
+
+FLT DL234 DFW 2024-08-25: Low visibility reported at origin. Delay of 144 minutes attributed to weather conditions. Ground stop issued 0002-0226 local time.
+
+FLT SW484 ATL 2024-06-02: High winds reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 2126-2253 local time.
+
+FLT DL366 ORD 2024-06-26: Low visibility reported at origin. Delay of 129 minutes attributed to weather conditions. Ground stop issued 0141-0350 local time.
+
+FLT SW855 MIA 2024-02-17: Thunderstorm reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 1835-2116 local time.
+
+FLT DL684 BOS 2024-04-20: Low visibility reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 2343-0119 local time.
+
+FLT DL678 JFK 2024-07-20: Heavy fog reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 1650-1810 local time.
+
+FLT SW470 JFK 2024-02-03: High winds reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 1837-1924 local time.
+
+FLT SW402 SFO 2024-02-22: Heavy fog reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1404-1523 local time.
+
+FLT AA426 ATL 2024-04-01: Snow storm reported at origin. Delay of 131 minutes attributed to weather conditions. Ground stop issued 1752-2003 local time.
+
+FLT SW884 SEA 2024-12-21: Thunderstorm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 0346-0428 local time.
+
+FLT AA550 LAX 2024-07-15: High winds reported at origin. Delay of 61 minutes attributed to weather conditions. Ground stop issued 1200-1301 local time.
+
+FLT B6383 LAX 2024-03-08: Low visibility reported at origin. Delay of 103 minutes attributed to weather conditions. Ground stop issued 1304-1447 local time.
+
+FLT AA991 DEN 2024-12-02: Ice on runway reported at origin. Delay of 169 minutes attributed to weather conditions. Ground stop issued 1125-1414 local time.
+
+FLT AA224 JFK 2024-10-29: Thunderstorm reported at origin. Delay of 158 minutes attributed to weather conditions. Ground stop issued 0619-0857 local time.
+
+FLT AA315 JFK 2024-04-07: Thunderstorm reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 0940-1122 local time.
+
+FLT B6247 ATL 2024-11-21: Heavy fog reported at origin. Delay of 48 minutes attributed to weather conditions. Ground stop issued 1519-1607 local time.
+
+FLT AA469 MIA 2024-10-25: Snow storm reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 1606-1642 local time.
+
+FLT SW781 DEN 2024-04-11: Heavy fog reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 1253-1501 local time.
+
+FLT B6653 DEN 2024-05-06: Snow storm reported at origin. Delay of 52 minutes attributed to weather conditions. Ground stop issued 1438-1530 local time.
+
+FLT AA236 MIA 2024-11-12: Thunderstorm reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 1242-1516 local time.
+
+FLT UA727 BOS 2024-09-09: Heavy fog reported at origin. Delay of 62 minutes attributed to weather conditions. Ground stop issued 2054-2156 local time.
+
+FLT SW861 LAX 2024-02-04: Thunderstorm reported at origin. Delay of 98 minutes attributed to weather conditions. Ground stop issued 0243-0421 local time.
+
+FLT B6385 ORD 2024-01-26: Snow storm reported at origin. Delay of 69 minutes attributed to weather conditions. Ground stop issued 1718-1827 local time.
+
+FLT DL982 LAX 2024-03-01: Low visibility reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 0506-0740 local time.
+
+FLT DL458 BOS 2024-03-27: Ice on runway reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 1806-1927 local time.
+
+FLT UA354 SEA 2024-11-26: Heavy fog reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 2120-2247 local time.
+
+FLT DL769 ORD 2024-03-19: Heavy fog reported at origin. Delay of 106 minutes attributed to weather conditions. Ground stop issued 1037-1223 local time.
+
+FLT UA857 ATL 2024-12-22: Thunderstorm reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 0818-0928 local time.
+
+FLT B6212 ORD 2024-01-31: Thunderstorm reported at origin. Delay of 179 minutes attributed to weather conditions. Ground stop issued 1432-1731 local time.
+
+FLT AA809 SFO 2024-01-16: Low visibility reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 1737-2014 local time.
+
+FLT B6515 DFW 2024-01-27: Low visibility reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 2334-0010 local time.
+
+FLT SW481 ORD 2024-04-19: Thunderstorm reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 1237-1354 local time.
+
+FLT AA424 JFK 2024-04-21: High winds reported at origin. Delay of 31 minutes attributed to weather conditions. Ground stop issued 1623-1654 local time.
+
+FLT DL905 DFW 2024-04-18: Low visibility reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 1127-1344 local time.
+
+FLT B6730 DFW 2024-06-25: Heavy fog reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 0957-1013 local time.
+
+FLT UA519 MIA 2024-08-15: Heavy fog reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 0823-0959 local time.
+
+FLT DL199 SEA 2024-01-20: Ice on runway reported at origin. Delay of 139 minutes attributed to weather conditions. Ground stop issued 0333-0552 local time.
+
+FLT UA403 LAX 2024-01-05: Thunderstorm reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 0025-0128 local time.
+
+FLT AA701 DEN 2024-02-19: High winds reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 0556-0856 local time.
+
+FLT B6882 ORD 2024-03-17: High winds reported at origin. Delay of 73 minutes attributed to weather conditions. Ground stop issued 2158-2311 local time.
+
+FLT SW577 LAX 2024-02-26: Ice on runway reported at origin. Delay of 166 minutes attributed to weather conditions. Ground stop issued 1128-1414 local time.
+
+FLT SW831 MIA 2024-03-08: Snow storm reported at origin. Delay of 150 minutes attributed to weather conditions. Ground stop issued 0629-0859 local time.
+
+FLT B6756 SFO 2024-08-19: Heavy fog reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 1845-1907 local time.
+
+FLT UA899 SEA 2024-06-27: Snow storm reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 0512-0529 local time.
+
+FLT DL207 ATL 2024-12-21: Low visibility reported at origin. Delay of 20 minutes attributed to weather conditions. Ground stop issued 1040-1100 local time.
+
+FLT DL906 ATL 2024-10-18: Thunderstorm reported at origin. Delay of 27 minutes attributed to weather conditions. Ground stop issued 0052-0119 local time.
+
+FLT AA386 LAX 2024-03-24: Low visibility reported at origin. Delay of 75 minutes attributed to weather conditions. Ground stop issued 0839-0954 local time.
+
+FLT AA986 SFO 2024-09-16: Low visibility reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 0408-0444 local time.
+
+FLT DL653 LAX 2024-02-08: Snow storm reported at origin. Delay of 156 minutes attributed to weather conditions. Ground stop issued 0302-0538 local time.
+
+FLT AA497 DEN 2024-10-16: Ice on runway reported at origin. Delay of 27 minutes attributed to weather conditions. Ground stop issued 1059-1126 local time.
+
+FLT SW952 SFO 2024-12-26: Ice on runway reported at origin. Delay of 116 minutes attributed to weather conditions. Ground stop issued 0721-0917 local time.
+
+FLT AA408 DFW 2024-01-13: Heavy fog reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 1746-1826 local time.
+
+FLT UA648 ORD 2024-10-09: Low visibility reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 1200-1358 local time.
+
+FLT B6603 ORD 2024-09-04: Heavy fog reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 2319-0041 local time.
+
+FLT AA277 SEA 2024-11-03: Snow storm reported at origin. Delay of 100 minutes attributed to weather conditions. Ground stop issued 2146-2326 local time.
+
+FLT DL762 DFW 2024-11-12: Ice on runway reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 0842-1132 local time.
+
+FLT B6487 DEN 2024-07-23: High winds reported at origin. Delay of 45 minutes attributed to weather conditions. Ground stop issued 0736-0821 local time.
+
+FLT AA809 JFK 2024-07-21: High winds reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 1818-1854 local time.
+
+FLT SW456 SFO 2024-10-12: Low visibility reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1401-1434 local time.
+
+FLT DL404 DEN 2024-01-27: Snow storm reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 1315-1456 local time.
+
+FLT AA126 MIA 2024-09-26: High winds reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 2021-2132 local time.
+
+FLT UA760 DFW 2024-07-17: Snow storm reported at origin. Delay of 103 minutes attributed to weather conditions. Ground stop issued 1449-1632 local time.
+
+FLT B6349 BOS 2024-02-02: Low visibility reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 1740-1938 local time.
+
+FLT DL649 DFW 2024-04-17: Low visibility reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 0620-0637 local time.
+
+FLT UA766 LAX 2024-03-06: Heavy fog reported at origin. Delay of 146 minutes attributed to weather conditions. Ground stop issued 1416-1642 local time.
+
+FLT AA642 MIA 2024-08-03: Thunderstorm reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 2350-0244 local time.
+
+FLT UA107 ORD 2024-06-22: Heavy fog reported at origin. Delay of 120 minutes attributed to weather conditions. Ground stop issued 1342-1542 local time.
+
+FLT UA249 DEN 2024-10-19: Ice on runway reported at origin. Delay of 64 minutes attributed to weather conditions. Ground stop issued 2347-0051 local time.
+
+FLT AA311 DEN 2024-05-19: High winds reported at origin. Delay of 115 minutes attributed to weather conditions. Ground stop issued 1223-1418 local time.
+
+FLT B6891 ORD 2024-07-28: Snow storm reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 1902-1957 local time.
+
+FLT B6549 SEA 2024-07-20: Low visibility reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 0251-0545 local time.
+
+FLT SW122 BOS 2024-04-23: Heavy fog reported at origin. Delay of 44 minutes attributed to weather conditions. Ground stop issued 1636-1720 local time.
+
+FLT DL279 JFK 2024-09-12: Ice on runway reported at origin. Delay of 23 minutes attributed to weather conditions. Ground stop issued 2219-2242 local time.
+
+FLT B6841 DEN 2024-04-29: Ice on runway reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 1321-1621 local time.
+
+FLT AA121 JFK 2024-12-07: Low visibility reported at origin. Delay of 171 minutes attributed to weather conditions. Ground stop issued 0704-0955 local time.
+
+FLT B6636 SFO 2024-10-11: High winds reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 1710-1846 local time.
+
+FLT UA486 ORD 2024-01-10: Thunderstorm reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 1659-1957 local time.
+
+FLT UA498 ORD 2024-08-20: Heavy fog reported at origin. Delay of 148 minutes attributed to weather conditions. Ground stop issued 1518-1746 local time.
+
+FLT AA195 ORD 2024-07-27: Snow storm reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 0730-0955 local time.
+
+FLT AA252 MIA 2024-01-28: Ice on runway reported at origin. Delay of 127 minutes attributed to weather conditions. Ground stop issued 2138-2345 local time.
+
+FLT SW962 ATL 2024-12-01: Thunderstorm reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 1623-1813 local time.
+
+FLT SW864 SEA 2024-08-31: Ice on runway reported at origin. Delay of 80 minutes attributed to weather conditions. Ground stop issued 0835-0955 local time.
+
+FLT AA188 BOS 2024-03-25: Snow storm reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 0533-0734 local time.
+
+FLT B6486 BOS 2024-08-12: Thunderstorm reported at origin. Delay of 16 minutes attributed to weather conditions. Ground stop issued 0426-0442 local time.
+
+FLT UA715 SEA 2024-09-17: High winds reported at origin. Delay of 173 minutes attributed to weather conditions. Ground stop issued 0549-0842 local time.
+
+FLT SW207 SEA 2024-09-24: Thunderstorm reported at origin. Delay of 93 minutes attributed to weather conditions. Ground stop issued 0552-0725 local time.
+
+FLT B6369 SEA 2024-07-25: Ice on runway reported at origin. Delay of 26 minutes attributed to weather conditions. Ground stop issued 1659-1725 local time.
+
+FLT DL265 BOS 2024-09-07: Ice on runway reported at origin. Delay of 167 minutes attributed to weather conditions. Ground stop issued 1643-1930 local time.
+
+FLT UA810 DEN 2024-07-21: Ice on runway reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 1444-1538 local time.
+
+FLT UA740 LAX 2024-07-02: Ice on runway reported at origin. Delay of 46 minutes attributed to weather conditions. Ground stop issued 0959-1045 local time.
+
+FLT UA683 SEA 2024-08-31: Heavy fog reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 1310-1508 local time.
+
+FLT SW597 SEA 2024-09-30: Thunderstorm reported at origin. Delay of 107 minutes attributed to weather conditions. Ground stop issued 1808-1955 local time.
+
+FLT SW469 SFO 2024-06-21: Snow storm reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 0216-0421 local time.
+
+FLT B6158 DEN 2024-04-27: Ice on runway reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 0217-0323 local time.
+
+FLT B6690 DEN 2024-04-27: Snow storm reported at origin. Delay of 153 minutes attributed to weather conditions. Ground stop issued 0506-0739 local time.
+
+FLT DL434 LAX 2024-07-04: Low visibility reported at origin. Delay of 26 minutes attributed to weather conditions. Ground stop issued 2115-2141 local time.
+
+FLT B6784 MIA 2024-05-14: Snow storm reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 1713-1827 local time.
+
+FLT B6206 BOS 2024-08-05: Heavy fog reported at origin. Delay of 169 minutes attributed to weather conditions. Ground stop issued 1506-1755 local time.
+
+FLT SW738 DFW 2024-07-05: Thunderstorm reported at origin. Delay of 124 minutes attributed to weather conditions. Ground stop issued 0232-0436 local time.
+
+FLT SW203 SFO 2024-07-29: Low visibility reported at origin. Delay of 136 minutes attributed to weather conditions. Ground stop issued 1242-1458 local time.
+
+FLT SW728 SFO 2024-03-05: Low visibility reported at origin. Delay of 26 minutes attributed to weather conditions. Ground stop issued 0954-1020 local time.
+
+FLT SW770 SFO 2024-07-11: Ice on runway reported at origin. Delay of 78 minutes attributed to weather conditions. Ground stop issued 0350-0508 local time.
+
+FLT B6472 ATL 2024-08-28: Snow storm reported at origin. Delay of 163 minutes attributed to weather conditions. Ground stop issued 0842-1125 local time.
+
+FLT AA747 JFK 2024-06-05: Snow storm reported at origin. Delay of 106 minutes attributed to weather conditions. Ground stop issued 0234-0420 local time.
+
+FLT AA610 JFK 2024-08-07: Low visibility reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 0112-0129 local time.
+
+FLT B6638 BOS 2024-05-02: Snow storm reported at origin. Delay of 85 minutes attributed to weather conditions. Ground stop issued 1214-1339 local time.
+
+FLT SW584 LAX 2024-08-07: Snow storm reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 1034-1259 local time.
+
+FLT B6502 ATL 2024-01-16: Snow storm reported at origin. Delay of 156 minutes attributed to weather conditions. Ground stop issued 2016-2252 local time.
+
+FLT B6586 ATL 2024-12-29: Ice on runway reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 0804-0910 local time.
+
+FLT AA940 SEA 2024-08-28: Ice on runway reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 0014-0117 local time.
+
+FLT AA496 LAX 2024-02-03: Snow storm reported at origin. Delay of 53 minutes attributed to weather conditions. Ground stop issued 0332-0425 local time.
+
+FLT AA828 MIA 2024-01-23: Low visibility reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 1233-1330 local time.
+
+FLT AA508 SEA 2024-08-13: Ice on runway reported at origin. Delay of 179 minutes attributed to weather conditions. Ground stop issued 1317-1616 local time.
+
+FLT SW100 JFK 2024-09-11: Snow storm reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 0957-1055 local time.
+
+FLT UA137 JFK 2024-02-01: Low visibility reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 1702-1719 local time.
+
+FLT AA289 BOS 2024-03-18: Low visibility reported at origin. Delay of 117 minutes attributed to weather conditions. Ground stop issued 1300-1457 local time.
+
+FLT AA952 LAX 2024-11-10: Heavy fog reported at origin. Delay of 113 minutes attributed to weather conditions. Ground stop issued 1900-2053 local time.
+
+FLT B6141 BOS 2024-01-03: High winds reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 2346-0236 local time.
+
+FLT B6853 JFK 2024-03-24: Snow storm reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 0709-0908 local time.
+
+FLT SW446 ATL 2024-05-23: Low visibility reported at origin. Delay of 94 minutes attributed to weather conditions. Ground stop issued 1125-1259 local time.
+
+FLT AA923 DFW 2024-12-26: Heavy fog reported at origin. Delay of 90 minutes attributed to weather conditions. Ground stop issued 1537-1707 local time.
+
+FLT DL164 SFO 2024-03-13: Ice on runway reported at origin. Delay of 57 minutes attributed to weather conditions. Ground stop issued 0400-0457 local time.
+
+FLT DL940 DEN 2024-06-16: Low visibility reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 0401-0616 local time.
+
+FLT SW255 DFW 2024-05-07: Low visibility reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 1036-1146 local time.
+
+FLT UA805 MIA 2024-11-25: Heavy fog reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 1650-1756 local time.
+
+FLT SW413 JFK 2024-06-24: Heavy fog reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 1453-1710 local time.
+
+FLT UA393 LAX 2024-08-03: Low visibility reported at origin. Delay of 44 minutes attributed to weather conditions. Ground stop issued 1309-1353 local time.
+
+FLT UA940 DEN 2024-06-05: Ice on runway reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 2141-0008 local time.
+
+FLT UA686 SEA 2024-02-10: Low visibility reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 1340-1640 local time.
+
+FLT DL484 MIA 2024-02-20: Low visibility reported at origin. Delay of 97 minutes attributed to weather conditions. Ground stop issued 1543-1720 local time.
+
+FLT B6999 ORD 2024-11-21: Low visibility reported at origin. Delay of 31 minutes attributed to weather conditions. Ground stop issued 1234-1305 local time.
+
+FLT UA750 LAX 2024-06-17: Snow storm reported at origin. Delay of 37 minutes attributed to weather conditions. Ground stop issued 2101-2138 local time.
+
+FLT UA981 SFO 2024-01-08: High winds reported at origin. Delay of 19 minutes attributed to weather conditions. Ground stop issued 0018-0037 local time.
+
+FLT AA699 SEA 2024-11-24: Thunderstorm reported at origin. Delay of 100 minutes attributed to weather conditions. Ground stop issued 0729-0909 local time.
+
+FLT AA816 LAX 2024-03-28: Low visibility reported at origin. Delay of 122 minutes attributed to weather conditions. Ground stop issued 1640-1842 local time.
+
+FLT AA447 ATL 2024-09-24: Heavy fog reported at origin. Delay of 171 minutes attributed to weather conditions. Ground stop issued 1613-1904 local time.
+
+FLT UA537 SEA 2024-02-16: Heavy fog reported at origin. Delay of 39 minutes attributed to weather conditions. Ground stop issued 1301-1340 local time.
+
+FLT AA455 DEN 2024-07-08: Ice on runway reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 1819-1917 local time.
+
+FLT DL727 SFO 2024-07-03: Thunderstorm reported at origin. Delay of 18 minutes attributed to weather conditions. Ground stop issued 0728-0746 local time.
+
+FLT UA948 ORD 2024-12-28: Heavy fog reported at origin. Delay of 174 minutes attributed to weather conditions. Ground stop issued 1222-1516 local time.
+
+FLT B6103 DEN 2024-11-29: Snow storm reported at origin. Delay of 85 minutes attributed to weather conditions. Ground stop issued 2117-2242 local time.
+
+FLT B6720 JFK 2024-10-26: Low visibility reported at origin. Delay of 158 minutes attributed to weather conditions. Ground stop issued 1820-2058 local time.
+
+FLT DL977 BOS 2024-02-29: Thunderstorm reported at origin. Delay of 93 minutes attributed to weather conditions. Ground stop issued 2021-2154 local time.
+
+FLT B6813 MIA 2024-01-06: Thunderstorm reported at origin. Delay of 170 minutes attributed to weather conditions. Ground stop issued 1615-1905 local time.
+
+FLT SW612 SEA 2024-12-02: Thunderstorm reported at origin. Delay of 153 minutes attributed to weather conditions. Ground stop issued 1007-1240 local time.
+
+FLT DL409 ATL 2024-11-19: Ice on runway reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 1821-1938 local time.
+
+FLT B6658 LAX 2024-04-01: Heavy fog reported at origin. Delay of 167 minutes attributed to weather conditions. Ground stop issued 1214-1501 local time.
+
+FLT SW707 DFW 2024-04-22: Ice on runway reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 1118-1239 local time.
+
+FLT B6397 SEA 2024-08-17: Heavy fog reported at origin. Delay of 96 minutes attributed to weather conditions. Ground stop issued 1055-1231 local time.
+
+FLT UA762 ATL 2024-10-06: Ice on runway reported at origin. Delay of 76 minutes attributed to weather conditions. Ground stop issued 0509-0625 local time.
+
+FLT UA810 JFK 2024-03-02: Ice on runway reported at origin. Delay of 143 minutes attributed to weather conditions. Ground stop issued 1402-1625 local time.
+
+FLT B6538 SFO 2024-06-05: High winds reported at origin. Delay of 51 minutes attributed to weather conditions. Ground stop issued 0633-0724 local time.
+
+FLT SW694 BOS 2024-10-13: Thunderstorm reported at origin. Delay of 105 minutes attributed to weather conditions. Ground stop issued 0528-0713 local time.
+
+FLT B6667 SEA 2024-09-25: High winds reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 0129-0411 local time.
+
+FLT AA414 JFK 2024-03-03: Snow storm reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 2214-2256 local time.
+
+FLT SW742 DEN 2024-10-24: Thunderstorm reported at origin. Delay of 67 minutes attributed to weather conditions. Ground stop issued 1914-2021 local time.
+
+FLT B6616 MIA 2024-12-11: Low visibility reported at origin. Delay of 106 minutes attributed to weather conditions. Ground stop issued 0616-0802 local time.
+
+FLT SW253 ORD 2024-07-15: Thunderstorm reported at origin. Delay of 111 minutes attributed to weather conditions. Ground stop issued 0741-0932 local time.
+
+FLT B6915 SFO 2024-12-28: Low visibility reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 1618-1918 local time.
+
+FLT B6598 BOS 2024-02-24: Heavy fog reported at origin. Delay of 110 minutes attributed to weather conditions. Ground stop issued 2016-2206 local time.
+
+FLT UA518 BOS 2024-08-23: Low visibility reported at origin. Delay of 151 minutes attributed to weather conditions. Ground stop issued 0757-1028 local time.
+
+FLT B6408 BOS 2024-07-06: Heavy fog reported at origin. Delay of 132 minutes attributed to weather conditions. Ground stop issued 0144-0356 local time.
+
+FLT UA935 LAX 2024-06-19: Heavy fog reported at origin. Delay of 133 minutes attributed to weather conditions. Ground stop issued 0518-0731 local time.
+
+FLT AA769 BOS 2024-08-13: Low visibility reported at origin. Delay of 19 minutes attributed to weather conditions. Ground stop issued 2305-2324 local time.
+
+FLT AA775 JFK 2024-01-01: Thunderstorm reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 0115-0257 local time.
+
+FLT DL642 SEA 2024-02-20: Snow storm reported at origin. Delay of 59 minutes attributed to weather conditions. Ground stop issued 1440-1539 local time.
+
+FLT SW604 ATL 2024-05-23: Thunderstorm reported at origin. Delay of 155 minutes attributed to weather conditions. Ground stop issued 1919-2154 local time.
+
+FLT B6251 ATL 2024-01-20: High winds reported at origin. Delay of 25 minutes attributed to weather conditions. Ground stop issued 2243-2308 local time.
+
+FLT B6467 BOS 2024-11-25: Snow storm reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 2223-0123 local time.
+
+FLT B6744 ORD 2024-02-06: Ice on runway reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 0948-1146 local time.
+
+FLT AA668 SEA 2024-03-26: Low visibility reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 1501-1537 local time.
+
+FLT B6216 LAX 2024-09-20: Thunderstorm reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 1731-1818 local time.
+
+FLT SW544 ORD 2024-10-04: Low visibility reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 0725-0740 local time.
+
+FLT B6899 MIA 2024-10-02: High winds reported at origin. Delay of 84 minutes attributed to weather conditions. Ground stop issued 1648-1812 local time.
+
+FLT UA189 BOS 2024-10-26: High winds reported at origin. Delay of 77 minutes attributed to weather conditions. Ground stop issued 0939-1056 local time.
+
+FLT SW970 ATL 2024-03-09: Thunderstorm reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 0401-0600 local time.
+
+FLT DL996 DFW 2024-10-10: Low visibility reported at origin. Delay of 56 minutes attributed to weather conditions. Ground stop issued 0029-0125 local time.
+
+FLT SW493 DFW 2024-06-20: Thunderstorm reported at origin. Delay of 108 minutes attributed to weather conditions. Ground stop issued 1643-1831 local time.
+
+FLT B6819 ATL 2024-09-14: Thunderstorm reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 1547-1709 local time.
+
+FLT DL393 DFW 2024-01-27: Thunderstorm reported at origin. Delay of 56 minutes attributed to weather conditions. Ground stop issued 1001-1057 local time.
+
+FLT AA315 DEN 2024-06-29: Heavy fog reported at origin. Delay of 176 minutes attributed to weather conditions. Ground stop issued 0135-0431 local time.
+
+FLT UA481 SFO 2024-04-10: Heavy fog reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 1451-1605 local time.
+
+FLT AA276 DEN 2024-11-29: Thunderstorm reported at origin. Delay of 160 minutes attributed to weather conditions. Ground stop issued 1258-1538 local time.
+
+FLT UA475 ORD 2024-02-04: High winds reported at origin. Delay of 36 minutes attributed to weather conditions. Ground stop issued 1523-1559 local time.
+
+FLT UA803 LAX 2024-10-05: Ice on runway reported at origin. Delay of 60 minutes attributed to weather conditions. Ground stop issued 2008-2108 local time.
+
+FLT B6539 SEA 2024-01-29: Heavy fog reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 0404-0514 local time.
+
+FLT AA313 ATL 2024-10-23: Ice on runway reported at origin. Delay of 58 minutes attributed to weather conditions. Ground stop issued 1850-1948 local time.
+
+FLT DL950 ATL 2024-12-14: Ice on runway reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 1645-1853 local time.
+
+FLT UA530 DFW 2024-02-18: Snow storm reported at origin. Delay of 134 minutes attributed to weather conditions. Ground stop issued 0509-0723 local time.
+
+FLT AA814 SEA 2024-08-02: Ice on runway reported at origin. Delay of 129 minutes attributed to weather conditions. Ground stop issued 1300-1509 local time.
+
+FLT SW564 DFW 2024-11-28: Snow storm reported at origin. Delay of 15 minutes attributed to weather conditions. Ground stop issued 2108-2123 local time.
+
+FLT AA790 SEA 2024-02-22: High winds reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 0741-0930 local time.
+
+FLT B6660 DEN 2024-04-30: Thunderstorm reported at origin. Delay of 59 minutes attributed to weather conditions. Ground stop issued 0705-0804 local time.
+
+FLT B6857 DEN 2024-06-10: Ice on runway reported at origin. Delay of 145 minutes attributed to weather conditions. Ground stop issued 0305-0530 local time.
+
+FLT SW998 JFK 2024-05-17: Snow storm reported at origin. Delay of 34 minutes attributed to weather conditions. Ground stop issued 0412-0446 local time.
+
+FLT AA377 ORD 2024-03-12: High winds reported at origin. Delay of 130 minutes attributed to weather conditions. Ground stop issued 1149-1359 local time.
+
+FLT B6412 DEN 2024-07-21: Snow storm reported at origin. Delay of 141 minutes attributed to weather conditions. Ground stop issued 1245-1506 local time.
+
+FLT SW772 SFO 2024-01-13: Snow storm reported at origin. Delay of 95 minutes attributed to weather conditions. Ground stop issued 1128-1303 local time.
+
+FLT AA383 DEN 2024-04-28: Snow storm reported at origin. Delay of 101 minutes attributed to weather conditions. Ground stop issued 0808-0949 local time.
+
+FLT B6473 ORD 2024-06-12: Low visibility reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 2100-2332 local time.
+
+FLT AA561 LAX 2024-06-05: Snow storm reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 1858-2020 local time.
+
+FLT UA320 JFK 2024-05-31: Low visibility reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 1358-1547 local time.
+
+FLT UA878 ORD 2024-06-02: Snow storm reported at origin. Delay of 53 minutes attributed to weather conditions. Ground stop issued 2009-2102 local time.
+
+FLT B6531 BOS 2024-11-30: Heavy fog reported at origin. Delay of 54 minutes attributed to weather conditions. Ground stop issued 0745-0839 local time.
+
+FLT AA893 ORD 2024-09-02: Ice on runway reported at origin. Delay of 89 minutes attributed to weather conditions. Ground stop issued 2047-2216 local time.
+
+FLT B6667 JFK 2024-08-21: Snow storm reported at origin. Delay of 177 minutes attributed to weather conditions. Ground stop issued 1927-2224 local time.
+
+FLT SW632 ATL 2024-06-25: Thunderstorm reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 0502-0542 local time.
+
+FLT B6800 DEN 2024-07-21: High winds reported at origin. Delay of 28 minutes attributed to weather conditions. Ground stop issued 0205-0233 local time.
+
+FLT B6532 SEA 2024-04-12: High winds reported at origin. Delay of 147 minutes attributed to weather conditions. Ground stop issued 0110-0337 local time.
+
+FLT SW178 SFO 2024-07-05: Thunderstorm reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 2242-0119 local time.
+
+FLT B6773 DEN 2024-06-30: Ice on runway reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 1439-1521 local time.
+
+FLT SW648 ORD 2024-05-15: Heavy fog reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 1625-1902 local time.
+
+FLT DL785 ATL 2024-12-28: Ice on runway reported at origin. Delay of 45 minutes attributed to weather conditions. Ground stop issued 1122-1207 local time.
+
+FLT UA513 LAX 2024-12-08: Heavy fog reported at origin. Delay of 79 minutes attributed to weather conditions. Ground stop issued 1815-1934 local time.
+
+FLT SW106 SEA 2024-01-26: Thunderstorm reported at origin. Delay of 153 minutes attributed to weather conditions. Ground stop issued 1652-1925 local time.
+
+FLT UA848 BOS 2024-01-03: Low visibility reported at origin. Delay of 59 minutes attributed to weather conditions. Ground stop issued 1605-1704 local time.
+
+FLT SW142 ORD 2024-12-22: High winds reported at origin. Delay of 18 minutes attributed to weather conditions. Ground stop issued 0827-0845 local time.
+
+FLT AA341 LAX 2024-07-06: Heavy fog reported at origin. Delay of 121 minutes attributed to weather conditions. Ground stop issued 1359-1600 local time.
+
+FLT AA449 LAX 2024-09-17: Heavy fog reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 0834-1023 local time.
+
+FLT SW953 DEN 2024-04-08: Low visibility reported at origin. Delay of 72 minutes attributed to weather conditions. Ground stop issued 1943-2055 local time.
+
+FLT B6602 LAX 2024-05-08: Thunderstorm reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 0006-0134 local time.
+
+FLT SW541 MIA 2024-07-22: Ice on runway reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 0835-0957 local time.
+
+FLT AA427 SFO 2024-02-24: Ice on runway reported at origin. Delay of 91 minutes attributed to weather conditions. Ground stop issued 0007-0138 local time.
+
+FLT DL856 DEN 2024-12-01: High winds reported at origin. Delay of 66 minutes attributed to weather conditions. Ground stop issued 0329-0435 local time.
+
+FLT AA294 DFW 2024-12-10: Thunderstorm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 0359-0431 local time.
+
+FLT B6751 SEA 2024-01-04: Snow storm reported at origin. Delay of 33 minutes attributed to weather conditions. Ground stop issued 1812-1845 local time.
+
+FLT AA819 MIA 2024-02-23: Low visibility reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 1514-1656 local time.
+
+FLT UA588 DEN 2024-09-07: Ice on runway reported at origin. Delay of 137 minutes attributed to weather conditions. Ground stop issued 0356-0613 local time.
+
+FLT SW912 ORD 2024-08-07: Heavy fog reported at origin. Delay of 30 minutes attributed to weather conditions. Ground stop issued 1218-1248 local time.
+
+FLT AA361 MIA 2024-06-13: Thunderstorm reported at origin. Delay of 65 minutes attributed to weather conditions. Ground stop issued 1821-1926 local time.
+
+FLT UA865 DFW 2024-11-09: High winds reported at origin. Delay of 151 minutes attributed to weather conditions. Ground stop issued 1508-1739 local time.
+
+FLT AA689 BOS 2024-04-09: Ice on runway reported at origin. Delay of 97 minutes attributed to weather conditions. Ground stop issued 1509-1646 local time.
+
+FLT UA947 MIA 2024-07-19: Heavy fog reported at origin. Delay of 168 minutes attributed to weather conditions. Ground stop issued 2334-0222 local time.
+
+FLT B6413 ATL 2024-12-08: High winds reported at origin. Delay of 42 minutes attributed to weather conditions. Ground stop issued 1001-1043 local time.
+
+FLT B6868 LAX 2024-01-24: Low visibility reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 0531-0553 local time.
+
+FLT DL507 MIA 2024-07-26: Snow storm reported at origin. Delay of 136 minutes attributed to weather conditions. Ground stop issued 1144-1400 local time.
+
+FLT AA799 JFK 2024-03-12: Snow storm reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 1511-1614 local time.
+
+FLT SW593 SFO 2024-04-10: Snow storm reported at origin. Delay of 135 minutes attributed to weather conditions. Ground stop issued 1019-1234 local time.
+
+FLT B6601 JFK 2024-06-12: Heavy fog reported at origin. Delay of 17 minutes attributed to weather conditions. Ground stop issued 0527-0544 local time.
+
+FLT UA444 BOS 2024-10-16: High winds reported at origin. Delay of 70 minutes attributed to weather conditions. Ground stop issued 2239-2349 local time.
+
+FLT B6873 BOS 2024-10-19: Thunderstorm reported at origin. Delay of 156 minutes attributed to weather conditions. Ground stop issued 1546-1822 local time.
+
+FLT UA509 SEA 2024-02-27: Ice on runway reported at origin. Delay of 118 minutes attributed to weather conditions. Ground stop issued 2243-0041 local time.
+
+FLT UA461 DEN 2024-02-11: Low visibility reported at origin. Delay of 81 minutes attributed to weather conditions. Ground stop issued 0919-1040 local time.
+
+FLT AA369 ATL 2024-12-29: Thunderstorm reported at origin. Delay of 53 minutes attributed to weather conditions. Ground stop issued 0607-0700 local time.
+
+FLT B6231 DEN 2024-05-10: Heavy fog reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 0531-0653 local time.
+
+FLT UA489 BOS 2024-02-22: Ice on runway reported at origin. Delay of 168 minutes attributed to weather conditions. Ground stop issued 1150-1438 local time.
+
+FLT UA322 DFW 2024-12-13: Snow storm reported at origin. Delay of 138 minutes attributed to weather conditions. Ground stop issued 1709-1927 local time.
+
+FLT SW925 ORD 2024-05-12: Heavy fog reported at origin. Delay of 144 minutes attributed to weather conditions. Ground stop issued 0327-0551 local time.
+
+FLT B6222 ATL 2024-12-21: Ice on runway reported at origin. Delay of 83 minutes attributed to weather conditions. Ground stop issued 0810-0933 local time.
+
+FLT B6111 SFO 2024-05-28: Heavy fog reported at origin. Delay of 30 minutes attributed to weather conditions. Ground stop issued 1637-1707 local time.
+
+FLT SW824 JFK 2024-09-09: High winds reported at origin. Delay of 149 minutes attributed to weather conditions. Ground stop issued 0054-0323 local time.
+
+FLT SW672 MIA 2024-05-17: Thunderstorm reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 0032-0119 local time.
+
+FLT DL287 ATL 2024-01-27: Low visibility reported at origin. Delay of 162 minutes attributed to weather conditions. Ground stop issued 0043-0325 local time.
+
+FLT SW715 ATL 2024-09-23: Thunderstorm reported at origin. Delay of 157 minutes attributed to weather conditions. Ground stop issued 1009-1246 local time.
+
+FLT DL793 SFO 2024-01-13: High winds reported at origin. Delay of 117 minutes attributed to weather conditions. Ground stop issued 0445-0642 local time.
+
+FLT SW962 ORD 2024-10-04: Heavy fog reported at origin. Delay of 140 minutes attributed to weather conditions. Ground stop issued 0522-0742 local time.
+
+FLT AA591 SFO 2024-09-08: High winds reported at origin. Delay of 46 minutes attributed to weather conditions. Ground stop issued 0746-0832 local time.
+
+FLT UA888 ATL 2024-04-26: High winds reported at origin. Delay of 152 minutes attributed to weather conditions. Ground stop issued 1928-2200 local time.
+
+FLT SW995 DEN 2024-04-22: Heavy fog reported at origin. Delay of 149 minutes attributed to weather conditions. Ground stop issued 1207-1436 local time.
+
+FLT UA923 ATL 2024-07-28: Ice on runway reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 1710-1805 local time.
+
+FLT B6175 BOS 2024-04-06: Low visibility reported at origin. Delay of 164 minutes attributed to weather conditions. Ground stop issued 0626-0910 local time.
+
+FLT B6110 SFO 2024-02-25: High winds reported at origin. Delay of 68 minutes attributed to weather conditions. Ground stop issued 1535-1643 local time.
+
+FLT AA357 ATL 2024-11-18: Heavy fog reported at origin. Delay of 94 minutes attributed to weather conditions. Ground stop issued 1124-1258 local time.
+
+FLT AA803 SFO 2024-10-31: Ice on runway reported at origin. Delay of 163 minutes attributed to weather conditions. Ground stop issued 1235-1518 local time.
+
+FLT SW564 DFW 2024-03-17: Ice on runway reported at origin. Delay of 154 minutes attributed to weather conditions. Ground stop issued 2152-0026 local time.
+
+FLT UA873 BOS 2024-04-16: Low visibility reported at origin. Delay of 64 minutes attributed to weather conditions. Ground stop issued 2143-2247 local time.
+
+FLT AA863 BOS 2024-05-04: Low visibility reported at origin. Delay of 19 minutes attributed to weather conditions. Ground stop issued 2139-2158 local time.
+
+FLT DL258 LAX 2024-12-27: Snow storm reported at origin. Delay of 178 minutes attributed to weather conditions. Ground stop issued 1515-1813 local time.
+
+FLT AA974 BOS 2024-12-25: Thunderstorm reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 1358-1438 local time.
+
+FLT SW583 ORD 2024-09-14: Thunderstorm reported at origin. Delay of 88 minutes attributed to weather conditions. Ground stop issued 1537-1705 local time.
+
+FLT DL160 LAX 2024-01-08: Heavy fog reported at origin. Delay of 47 minutes attributed to weather conditions. Ground stop issued 1832-1919 local time.
+
+FLT UA355 BOS 2024-07-27: Heavy fog reported at origin. Delay of 63 minutes attributed to weather conditions. Ground stop issued 0304-0407 local time.
+
+FLT SW589 ORD 2024-10-08: Ice on runway reported at origin. Delay of 109 minutes attributed to weather conditions. Ground stop issued 2152-2341 local time.
+
+FLT AA877 LAX 2024-10-05: Snow storm reported at origin. Delay of 169 minutes attributed to weather conditions. Ground stop issued 2356-0245 local time.
+
+FLT SW759 SEA 2024-10-18: Heavy fog reported at origin. Delay of 55 minutes attributed to weather conditions. Ground stop issued 1322-1417 local time.
+
+FLT SW530 ATL 2024-01-05: Low visibility reported at origin. Delay of 119 minutes attributed to weather conditions. Ground stop issued 0542-0741 local time.
+
+FLT B6837 BOS 2024-04-14: Heavy fog reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 0441-0649 local time.
+
+FLT DL282 DEN 2024-10-16: Low visibility reported at origin. Delay of 113 minutes attributed to weather conditions. Ground stop issued 1327-1520 local time.
+
+FLT B6168 JFK 2024-02-04: Ice on runway reported at origin. Delay of 87 minutes attributed to weather conditions. Ground stop issued 0629-0756 local time.
+
+FLT DL453 BOS 2024-10-27: Thunderstorm reported at origin. Delay of 128 minutes attributed to weather conditions. Ground stop issued 2104-2312 local time.
+
+FLT SW279 SEA 2024-06-22: Thunderstorm reported at origin. Delay of 151 minutes attributed to weather conditions. Ground stop issued 0143-0414 local time.
+
+FLT DL122 JFK 2024-05-20: Low visibility reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 1542-1653 local time.
+
+FLT AA968 DEN 2024-05-14: Thunderstorm reported at origin. Delay of 22 minutes attributed to weather conditions. Ground stop issued 1843-1905 local time.
+
+FLT SW989 DFW 2024-09-28: Ice on runway reported at origin. Delay of 40 minutes attributed to weather conditions. Ground stop issued 0517-0557 local time.
+
+FLT B6250 ATL 2024-04-20: Low visibility reported at origin. Delay of 134 minutes attributed to weather conditions. Ground stop issued 1126-1340 local time.
+
+FLT AA702 SEA 2024-12-15: Low visibility reported at origin. Delay of 180 minutes attributed to weather conditions. Ground stop issued 0251-0551 local time.
+
+FLT AA859 LAX 2024-12-29: Snow storm reported at origin. Delay of 85 minutes attributed to weather conditions. Ground stop issued 1514-1639 local time.
+
+FLT DL930 SEA 2024-03-29: Thunderstorm reported at origin. Delay of 161 minutes attributed to weather conditions. Ground stop issued 0133-0414 local time.
+
+FLT UA469 BOS 2024-01-06: Low visibility reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 1901-1942 local time.
+
+FLT AA616 SEA 2024-12-05: Snow storm reported at origin. Delay of 166 minutes attributed to weather conditions. Ground stop issued 1750-2036 local time.
+
+FLT SW592 ORD 2024-01-10: Thunderstorm reported at origin. Delay of 122 minutes attributed to weather conditions. Ground stop issued 1334-1536 local time.
+
+FLT DL372 MIA 2024-05-02: Snow storm reported at origin. Delay of 167 minutes attributed to weather conditions. Ground stop issued 2034-2321 local time.
+
+FLT AA884 SFO 2024-05-07: Thunderstorm reported at origin. Delay of 148 minutes attributed to weather conditions. Ground stop issued 1137-1405 local time.
+
+FLT DL503 JFK 2024-10-19: Thunderstorm reported at origin. Delay of 32 minutes attributed to weather conditions. Ground stop issued 2002-2034 local time.
+
+FLT SW603 SFO 2024-07-04: Heavy fog reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 0229-0351 local time.
+
+FLT SW502 ORD 2024-12-09: Thunderstorm reported at origin. Delay of 125 minutes attributed to weather conditions. Ground stop issued 0913-1118 local time.
+
+FLT SW747 DFW 2024-11-14: High winds reported at origin. Delay of 89 minutes attributed to weather conditions. Ground stop issued 1642-1811 local time.
+
+FLT SW119 SFO 2024-01-04: Low visibility reported at origin. Delay of 106 minutes attributed to weather conditions. Ground stop issued 0615-0801 local time.
+
+FLT UA428 MIA 2024-12-22: Ice on runway reported at origin. Delay of 41 minutes attributed to weather conditions. Ground stop issued 0144-0225 local time.
+
+FLT DL134 SEA 2024-06-27: High winds reported at origin. Delay of 115 minutes attributed to weather conditions. Ground stop issued 0139-0334 local time.
+
+FLT DL518 JFK 2024-07-04: High winds reported at origin. Delay of 102 minutes attributed to weather conditions. Ground stop issued 2232-0014 local time.
+
+FLT B6235 ATL 2024-11-14: Low visibility reported at origin. Delay of 74 minutes attributed to weather conditions. Ground stop issued 2026-2140 local time.
+
+FLT DL444 DEN 2024-03-03: Ice on runway reported at origin. Delay of 177 minutes attributed to weather conditions. Ground stop issued 1916-2213 local time.
+
+FLT SW712 MIA 2024-11-28: Thunderstorm reported at origin. Delay of 78 minutes attributed to weather conditions. Ground stop issued 0813-0931 local time.
+
+FLT B6138 SEA 2024-03-30: Heavy fog reported at origin. Delay of 71 minutes attributed to weather conditions. Ground stop issued 0726-0837 local time.
+
+FLT SW760 LAX 2024-04-24: Ice on runway reported at origin. Delay of 134 minutes attributed to weather conditions. Ground stop issued 1445-1659 local time.
+
+FLT AA990 MIA 2024-11-10: Heavy fog reported at origin. Delay of 136 minutes attributed to weather conditions. Ground stop issued 1653-1909 local time.
+
+FLT B6521 JFK 2024-02-11: Low visibility reported at origin. Delay of 31 minutes attributed to weather conditions. Ground stop issued 1729-1800 local time.
+
+FLT SW156 DEN 2024-04-12: Ice on runway reported at origin. Delay of 37 minutes attributed to weather conditions. Ground stop issued 0841-0918 local time.
+
+FLT UA231 SFO 2024-09-06: High winds reported at origin. Delay of 82 minutes attributed to weather conditions. Ground stop issued 2110-2232 local time.
