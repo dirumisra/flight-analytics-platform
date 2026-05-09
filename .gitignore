@@ -1,7 +1,12 @@
 .env
 venv/
 fa_env/
-fa_env/
+
 .stubs/
 .vfsmeta/
 .work-folder-info
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
